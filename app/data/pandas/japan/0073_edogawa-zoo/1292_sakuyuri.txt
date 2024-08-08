@@ -1,0 +1,190 @@
+[panda]
+_id: 1292
+birthday: 2021/6/23
+birthplace: 64
+children: none
+commitdate: 2021/7/1
+en.name: Sakuyuri
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: サクユリ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: none
+location.1: 64, 2021/6/23
+location.2: 73, 2024/2/15
+photo.1: ig://CVPSn0jBrUG/m
+photo.1.author: grskus_tk
+photo.1.commitdate: 2021/11/11
+photo.1.link: https://www.instagram.com/grskus_tk/
+photo.1.tags: baby, climb, mofumofu, paws, tail
+photo.2: ig://CVPub7IhUJ8/m
+photo.2.author: grskus_tk
+photo.2.commitdate: 2021/11/11
+photo.2.link: https://www.instagram.com/grskus_tk/
+photo.2.tags: baby, bamboo, close-up, paws, techitechi
+photo.3: ig://CVRf7ehBFf6/m
+photo.3.author: grskus_tk
+photo.3.commitdate: 2021/11/11
+photo.3.link: https://www.instagram.com/grskus_tk/
+photo.3.tags: baby, mofumofu, peek
+photo.4: ig://CVU6tdshgQP/m
+photo.4.author: grskus_tk
+photo.4.commitdate: 2021/11/11
+photo.4.link: https://www.instagram.com/grskus_tk/
+photo.4.tags: baby, bamboo, mofumofu, tail
+photo.5: ig://CVXM9-fBUXn/m
+photo.5.author: grskus_tk
+photo.5.commitdate: 2021/11/11
+photo.5.link: https://www.instagram.com/grskus_tk/
+photo.5.tags: baby, peek
+photo.6: cwdc://X0D7VeyADQA.jpg
+photo.6.author: oshimabranchoffice
+photo.6.commitdate: 2021/11/11
+photo.6.link: https://www.instagram.com/p/CWDJ6NJAPid
+photo.6.tags: baby, close-up, mofumofu, portrait, profile, sample
+photo.7: ig://CWQC3QXBixw/m
+photo.7.author: grskus_tk
+photo.7.commitdate: 2022/1/15
+photo.7.link: https://www.instagram.com/grskus_tk/
+photo.7.tags: baby, close-up, mofumofu
+photo.8: ig://CWRjXDnBYzD/m
+photo.8.author: grskus_tk
+photo.8.commitdate: 2022/1/15
+photo.8.link: https://www.instagram.com/grskus_tk/
+photo.8.tags: baby, climb, mofumofu, paws
+photo.9: ig://CWRwLfThaUv/m
+photo.9.author: grskus_tk
+photo.9.commitdate: 2022/1/15
+photo.9.link: https://www.instagram.com/grskus_tk/
+photo.9.tags: baby, peek
+photo.10: ig://CWTHfGVBRdo/m
+photo.10.author: grskus_tk
+photo.10.commitdate: 2022/1/15
+photo.10.link: https://www.instagram.com/grskus_tk/
+photo.10.tags: baby, paws, climb
+photo.11: ig://CWUkmH4hyl1/m
+photo.11.author: grskus_tk
+photo.11.commitdate: 2022/1/15
+photo.11.link: https://www.instagram.com/grskus_tk/
+photo.11.tags: baby, dish
+photo.12: ig://CWaeORNBzfS/m
+photo.12.author: grskus_tk
+photo.12.commitdate: 2021/11/29
+photo.12.link: https://www.instagram.com/grskus_tk/
+photo.12.tags: baby, mofumofu, peek, techitechi
+photo.13: ig://CWftjvWBYtH/m
+photo.13.author: grskus_tk
+photo.13.commitdate: 2022/1/15
+photo.13.link: https://www.instagram.com/grskus_tk/
+photo.13.tags: baby, bamboo, peek
+photo.14: ig://CWp8ErOh2JN/m
+photo.14.author: daniele.tokyo
+photo.14.commitdate: 2021/12/6
+photo.14.link: https://www.instagram.com/daniele.tokyo/
+photo.14.tags: baby, close-up, mofumofu, white face
+photo.15: ig://CWsg3i5hy9K/m
+photo.15.author: daniele.tokyo
+photo.15.commitdate: 2022/1/7
+photo.15.link: https://www.instagram.com/daniele.tokyo/
+photo.15.tags: baby, close-up, whiskers
+photo.16: ig://CXGekGMhzpE/m
+photo.16.author: rie_panda55
+photo.16.commitdate: 2022/1/9
+photo.16.link: https://www.instagram.com/rie_panda55/
+photo.16.tags: baby, mofumofu, portrait
+photo.17: ig://CXZoI32BzHG/m
+photo.17.author: rie_panda55
+photo.17.commitdate: 2023/2/24
+photo.17.link: https://www.instagram.com/rie_panda55/
+photo.17.tags: paws, portrait, white face
+photo.18: ig://CXhelR9hMeX/m
+photo.18.author: miis_98
+photo.18.commitdate: 2021/12/22
+photo.18.link: https://www.instagram.com/miis_98/
+photo.18.tags: baby, mofumofu, portrait, whiskers
+photo.19: ig://CXxiBhRPRoR/m
+photo.19.author: grskus_tk
+photo.19.commitdate: 2022/2/6
+photo.19.link: https://www.instagram.com/grskus_tk/
+photo.19.tags: baby, home, peek
+photo.20: ig://Cd29HMPJuSj/m
+photo.20.author: grskus_tk
+photo.20.commitdate: 2022/8/25
+photo.20.link: https://www.instagram.com/grskus_tk/
+photo.20.tags: bridge, laying down
+photo.21: ig://Cd97JguJOFG/m
+photo.21.author: grskus_tk
+photo.21.commitdate: 2022/9/24
+photo.21.link: https://www.instagram.com/grskus_tk/
+photo.21.tags: bridge, bear worm, paws, upside down
+photo.22: ig://CeVk4nPPgvM/m
+photo.22.author: grskus_tk
+photo.22.commitdate: 2022/6/21
+photo.22.link: https://www.instagram.com/grskus_tk/
+photo.22.tags: bamboo, close-up, sample, whiskers
+photo.23: ig://CeXQDkhvHD0/m
+photo.23.author: grskus_tk
+photo.23.commitdate: 2022/6/21
+photo.23.link: https://www.instagram.com/grskus_tk/
+photo.23.tags: home, peek, tail, tongue
+photo.24: ig://CfISpoaPm60/m
+photo.24.author: grskus_tk
+photo.24.commitdate: 2022/11/29
+photo.24.link: https://www.instagram.com/grskus_tk/
+photo.24.tags: bridge, laying down, mofumofu
+photo.25: ig://ChU18e1hKxE/m
+photo.25.author: sakikukeco
+photo.25.commitdate: 2022/8/18
+photo.25.link: https://www.instagram.com/sakikukeco/
+photo.25.tags: mofumofu, portrait, sample, smile
+photo.26: ig://Cikmgolhtux/m
+photo.26.author: oshimabranchoffice
+photo.26.commitdate: 2022/12/7
+photo.26.link: https://www.instagram.com/oshimabranchoffice/
+photo.26.tags: apple time, close-up, dish, portrait, sample
+photo.27: ig://Cm0DiFjPi81/m
+photo.27.author: grskus_tk
+photo.27.commitdate: 2023/1/12
+photo.27.link: https://www.instagram.com/grskus_tk/
+photo.27.tags: laying down, peek, tail
+photo.28: cwdc://Y30al_NADQA.jpg
+photo.28.author: daniele.tokyo
+photo.28.commitdate: 2024/3/10
+photo.28.link: https://www.instagram.com/p/C37ZidWvnG6
+photo.28.tags: peek, sample, techitechi, whiskers
+species: 2
+uncertainty: location.2 exact date
+zoo: 73
+photo.29: cwdc://Y3GbVffADQA.jpg
+photo.29.author: ifumoto88
+photo.29.commitdate: 2024/5/4
+photo.29.link: ig://C3kZ6NfrXD1
+photo.29.tags: bridge, climb, paws, portrait, sample, tail
+photo.30: cwdc://Y3KpMujADQB.jpg
+photo.30.author: ifumoto88
+photo.30.commitdate: 2024/5/4
+photo.30.link: ig://C3mg11Bu6Bm
+photo.30.tags: bridge, peek, portrait, sample, whiskers
+photo.31: cwdc://Y4YZ6v4ADQA.jpg
+photo.31.author: rie_panda55
+photo.31.commitdate: 2024/5/4
+photo.31.link: ig://C4NZM1sP4aQ
+photo.31.tags: bamboo, portrait, sample
+photo.32: cwdc://Y4YZ6v4ADQB.jpg
+photo.32.author: rie_panda55
+photo.32.commitdate: 2024/5/4
+photo.32.link: ig://C4NZM1sP4aR
+photo.32.tags: bamboo, peek, portrait, standing
+photo.33: cwdc://Y4YZ6v4ADQC.jpg
+photo.33.author: rie_panda55
+photo.33.commitdate: 2024/5/4
+photo.33.link: ig://C4NZM1sP4aS
+photo.33.tags: bridge, dish, portrait, sample
+photo.34: cwdc://Y4bx_vpADQC.jpg
+photo.34.author: ifumoto88
+photo.34.commitdate: 2024/5/4
+photo.34.link: ig://C4PFPVkxaan
+photo.34.tags: peek, tail, tree

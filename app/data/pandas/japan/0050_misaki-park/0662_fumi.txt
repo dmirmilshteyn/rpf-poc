@@ -1,0 +1,19 @@
+[panda]
+_id: 662
+birthday: 1993/6/21
+birthplace: 50
+children: none
+commitdate: 2019/3/20
+death: 2002/10/27
+en.name: Fumi
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: フウミ
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 661
+species: 2
+studbook.id: 9391
+zoo: 50

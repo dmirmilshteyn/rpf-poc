@@ -1,0 +1,24 @@
+[zoo]
+_id: 32
+commitdate: 2018/6/22
+en.address: Japan, 〒810-0037 Fukuoka-ken, Fukuoka-shi, Chūō-ku, Minamikōen, 1−１
+en.location: Chuo-ku, Fukuoka City, Fukuoka Prefecture, Japan
+en.name: Fukuoka Municipal Zoo and Botanical Garden
+flag: Japan
+ja.address: 〒810-0037 福岡県福岡市中央区南公園1−１
+ja.location: 中央区 福岡市 福岡県
+ja.name: 福岡市動物園
+language.order: ja, en
+latitude: 33.5812228
+longitude: 130.3829501
+map: https://goo.gl/maps/XZZzwgWnAUq
+photo.1: ig://BesPcyFB_-O/m
+photo.1.author: fukuokazoo
+photo.1.commitdate: 2019/4/30
+photo.1.link: https://www.instagram.com/fukuokazoo/
+photo.2: cwdc://X-VcpQWADQA.jpg
+photo.2.author: fukuokazoo
+photo.2.commitdate: 2023/8/21
+photo.2.link: https://www.instagram.com/p/CbL6kF7Jc4O
+photo.2.tags: profile
+website: http://zoo.city.fukuoka.lg.jp/

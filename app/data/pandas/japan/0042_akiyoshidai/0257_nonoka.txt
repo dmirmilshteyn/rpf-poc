@@ -1,0 +1,107 @@
+[panda]
+_id: 257
+birthday: 2011/6/23
+birthplace: 42
+children: none
+commitdate: 2018/7/28
+en.name: Nonoka
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: 野乃香
+ja.nicknames: none
+ja.othernames: ノノカ
+language.order: ja, en
+litter: 258
+photo.1: cwdc://V6UXB_cADQA.jpg
+photo.1.author: miis_98
+photo.1.commitdate: 2018/8/22
+photo.1.link: https://www.instagram.com/p/BZLXwdeBCB6
+photo.1.tags: portrait, profile, sample, smile, whiskers
+photo.2: ig://BZi7gXXBJ4X/m
+photo.2.author: apple_jasmine33
+photo.2.commitdate: 2020/5/4
+photo.2.link: https://www.instagram.com/apple_jasmine33/
+photo.2.tags: portrait, smile, tail
+photo.3: ig://BaAVfcmhJz4/m
+photo.3.author: resapanlove
+photo.3.commitdate: 2019/6/23
+photo.3.link: https://www.instagram.com/resapanlove/
+photo.3.tags: smile
+photo.4: ig://BaAgxKDl2L8/m
+photo.4.author: nakacchi_desu
+photo.4.commitdate: 2018/8/22
+photo.4.link: https://www.instagram.com/nakacchi_desu/
+photo.5: ig://BcO9RmyFWU6/m
+photo.5.author: hanamaru_redpanda
+photo.5.commitdate: 2020/3/11
+photo.5.link: https://www.instagram.com/hanamaru_redpanda/
+photo.5.tags: apple time, portrait, smile, tail
+photo.6: ig://BhYz6i7BdrH/m
+photo.6.author: miis_98
+photo.6.commitdate: 2018/8/22
+photo.6.link: https://www.instagram.com/miis_98/
+photo.6.tags: apple time, smile
+photo.7: ig://B3o9hKwhoqi/m
+photo.7.author: miis_98
+photo.7.commitdate: 2019/10/17
+photo.7.link: https://www.instagram.com/miis_98/
+photo.7.tags: door, long-tongue, portrait, tongue
+photo.8: ig://CE_FxqxhujU/m
+photo.8.author: grskus_tk
+photo.8.commitdate: 2020/9/14
+photo.8.link: https://www.instagram.com/grskus_tk/
+photo.8.tags: tail
+photo.9: ig://CVFxEo1Bvkf/m
+photo.9.author: kojikoji2011
+photo.9.commitdate: 2021/10/30
+photo.9.link: https://www.instagram.com/kojikoji2011/
+photo.9.tags: tree
+photo.10: ig://CY9NKTNPI0U/m
+photo.10.author: kojikoji2011
+photo.10.commitdate: 2022/4/10
+photo.10.link: https://www.instagram.com/kojikoji2011/
+photo.10.tags: paws, peek, sample, tail
+photo.11: ig://Ccky37EPOKQ/m
+photo.11.author: kojikoji2011
+photo.11.commitdate: 2022/6/2
+photo.11.link: https://www.instagram.com/kojikoji2011/
+photo.11.tags: apple time, bite, portrait, sample, whiskers
+photo.12: ig://CjfqS3wPht3/m
+photo.12.author: kojikoji2011
+photo.12.commitdate: 2022/10/14
+photo.12.link: https://www.instagram.com/kojikoji2011/
+photo.12.tags: portrait, sample, whiskers
+photo.13: ig://Ckk9ATxPU-1/m
+photo.13.author: resapanlove
+photo.13.commitdate: 2023/1/14
+photo.13.link: https://www.instagram.com/resapanlove/
+photo.13.tags: autumn, peek, tree, whiskers
+photo.14: ig://CnCU4vqP4Xd/m
+photo.14.author: kojikoji2011
+photo.14.commitdate: 2023/1/14
+photo.14.link: https://www.instagram.com/kojikoji2011/
+photo.14.tags: bamboo, paws, portrait, sample
+photo.15: ig://CoL7rYlvXej/m
+photo.15.author: re_ichimaru
+photo.15.commitdate: 2023/3/6
+photo.15.link: https://www.instagram.com/re_ichimaru/
+photo.15.tags: climb, paws, peek, portrait, sample, white face
+photo.16: ig://CqslcB6vmdV/m
+photo.16.author: kojikoji2011
+photo.16.commitdate: 2023/10/4
+photo.16.link: https://www.instagram.com/kojikoji2011/
+photo.16.tags: laying down, paws, portrait, sample, white face
+photo.17: ig://Ct6Isx1PJla/m
+photo.17.author: joy93.87
+photo.17.commitdate: 2023/11/18
+photo.17.link: https://www.instagram.com/joy93.87/
+photo.17.tags: laying down, sample, tongue, whiskers
+photo.18: ig://CuCVxypvRsQ/m
+photo.18.author: kojikoji2011
+photo.18.commitdate: 2023/8/11
+photo.18.link: https://www.instagram.com/kojikoji2011/
+photo.18.tags: laying down, portrait, sample, sleeping, tail
+species: 2
+studbook.id: 1197
+zoo: 42

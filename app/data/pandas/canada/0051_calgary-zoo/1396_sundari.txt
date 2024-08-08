@@ -1,0 +1,44 @@
+[panda]
+_id: 1396
+birthday: 2022/6/14
+birthplace: 51
+children: none
+commitdate: 2022/10/7
+en.name: Sundari
+en.nicknames: none
+en.oldnames: Sunsari
+en.othernames: none
+gender: f
+ja.name: サンダリ
+ja.nicknames: none
+ja.oldnames: サンサリ
+ja.othernames: none
+language.order: en, ja
+litter: 1397
+photo.1: ig://ClZ-YZvJJ9f/m
+photo.1.author: westcoast_kathy
+photo.1.commitdate: 2022/12/8
+photo.1.link: https://www.instagram.com/westcoast_kathy/
+photo.1.tags: baby, close-up, sample, smile, tongue, whiskers
+photo.2: ig://ClhpeplJl31/m
+photo.2.author: westcoast_kathy
+photo.2.commitdate: 2022/12/8
+photo.2.link: https://www.instagram.com/westcoast_kathy/
+photo.2.tags: baby, mofumofu, smile, snow, tail
+photo.3: ig://Cm6zBs6Kvvo/m
+photo.3.author: thecalgaryzoo
+photo.3.commitdate: 2023/4/14
+photo.3.link: https://www.instagram.com/thecalgaryzoo/
+photo.3.tags: baby, mofumofu, snow, tail
+photo.4: ig://CooOCqPLl8a/m
+photo.4.author: westcoast_kathy
+photo.4.commitdate: 2023/4/14
+photo.4.link: https://www.instagram.com/westcoast_kathy/
+photo.4.tags: close-up, mofumofu, sample, whiskers
+photo.5: ig://CrlhNRUOnv8/m
+photo.5.author: worldthathesees
+photo.5.commitdate: 2023/5/3
+photo.5.link: https://www.instagram.com/worldthathesees/
+photo.5.tags: bamboo, paws, peek, portrait, sample
+species: 2
+zoo: 51

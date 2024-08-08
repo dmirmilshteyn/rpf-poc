@@ -1,0 +1,23 @@
+[panda]
+_id: 835
+birthday: 2004/7/17
+birthplace: 75
+children: none
+commitdate: 2019/4/8
+death: 2020/3/11
+en.name: Scarlet
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: スカーレット
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 834
+location.1: 75, 2004/7/17
+location.2: 163, 2005/11/17
+location.3: 118, 2008/11/13
+species: 1
+studbook.id: 0434
+uncertainty: Scarlet passed 1d afer rossifari first visit, confirm day
+zoo: 118

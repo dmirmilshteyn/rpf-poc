@@ -1,0 +1,25 @@
+[zoo]
+_id: 306
+commitdate: 2022/1/4
+en.address: 5 Chome-14-2 Kengun, Higashi Ward, Kumamoto, 862-0911, Japan
+en.location: Higashi Ward, Kumamoto, Japan
+en.name: Kumamoto City Zoological and Botanical Gardens
+flag: Japan
+ja.address: 〒862-0911 熊本県熊本市東区健軍５丁目１４−2
+ja.location: 東区 熊本市 熊本県 日本
+ja.name: 熊本市動植物園
+language.order: ja, en
+latitude: 32.7749943
+longitude: 130.7392573
+map: https://goo.gl/maps/Aveudmjy2829ox8Z6
+photo.1: cwdc://X30bdclADQA.jpg
+photo.1.author: kumamoto_doushokubutsuen
+photo.1.commitdate: 2022/1/4
+photo.1.link: https://www.instagram.com/p/CX7Z-MClHqk
+photo.1.tags: profile
+photo.2: cwdc://X4PNl6lADQB.jpg
+photo.2.author: kumamoto_doushokubutsuen
+photo.2.commitdate: 2022/1/4
+photo.2.link: https://www.instagram.com/p/CYIzCbCh1BK
+photo.2.tags: animal
+website: https://www.ezooko.jp/

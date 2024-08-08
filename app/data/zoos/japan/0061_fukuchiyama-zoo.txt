@@ -1,0 +1,25 @@
+[zoo]
+_id: 61
+commitdate: 2018/7/29
+en.address: 377-1 Izaki, Fukuchiyama, Kyoto Prefecture 620-0017, Japan
+en.location: Fukuchiyama, Japan
+en.name: Fukuchiyama Zoo
+flag: Japan
+ja.address: 〒620-0017 京都府福知山市猪崎377-1
+ja.location: 福知山市 京都府
+ja.name: 福知山市動物園
+language.order: ja, en
+latitude: 35.3101894
+longitude: 135.1364023
+map: https://goo.gl/maps/XZvhpftc9L72
+photo.1: cwdc://VpaOU78ADQA.jpg
+photo.1.author: kisshan324
+photo.1.commitdate: 2019/4/30
+photo.1.link: https://www.instagram.com/p/BQuTZ7uALz8
+photo.1.tags: sign
+photo.2: cwdc://Xi7IA72ADQA.jpg
+photo.2.author: fetorus_mami
+photo.2.commitdate: 2021/6/19
+photo.2.link: https://www.instagram.com/p/CNewP7rBXEN
+photo.2.tags: profile
+website: http://www.sandanike-kouen.or.jp/zoo.php

@@ -1,0 +1,329 @@
+[panda]
+_id: 1196
+birthday: 2020/6/29
+birthplace: 45
+children: none
+commitdate: 2020/7/20
+en.name: Gumi
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: グミ
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 1195
+location.1: 45, 2020/6/29
+location.2: 53, 2023/4/12
+photo.1: ig://CG1VJq2hIXM/m
+photo.1.author: panda.daisuki
+photo.1.commitdate: 2020/11/1
+photo.1.link: https://www.instagram.com/panda.daisuki/
+photo.1.tags: baby, mofumofu, portrait, tail
+photo.2: ig://CG4t96MBmp2/m
+photo.2.author: ifumoto88
+photo.2.commitdate: 2020/11/1
+photo.2.link: https://www.instagram.com/ifumoto88/
+photo.2.tags: baby, mofumofu, portrait
+photo.3: ig://CHBmk-ohXGB/m
+photo.3.author: hidehaya_biei
+photo.3.commitdate: 2020/11/6
+photo.3.link: https://www.instagram.com/hidehaya_biei/
+photo.3.tags: baby, close-up, mofumofu, nose
+photo.4: ig://CHXhnz4B54d/m
+photo.4.author: roko_mm
+photo.4.commitdate: 2020/12/25
+photo.4.link: https://www.instagram.com/roko_mm/
+photo.4.tags: baby, portrait, standing
+photo.5: ig://CHaAXeOhRP-/m
+photo.5.author: roko_mm
+photo.5.commitdate: 2020/12/25
+photo.5.link: https://www.instagram.com/roko_mm/
+photo.5.tags: baby, mofumofu, portrait, tail
+photo.6: ig://CHfpgtchtHh/m
+photo.6.author: redpan22
+photo.6.commitdate: 2020/11/22
+photo.6.link: https://www.instagram.com/redpan22/
+photo.6.tags: baby, bridge, portrait
+photo.7: ig://CHhFv5ABR3N/m
+photo.7.author: hidehaya_biei
+photo.7.commitdate: 2020/11/22
+photo.7.link: https://www.instagram.com/hidehaya_biei/
+photo.7.tags: baby, bamboo, bite
+photo.8: ig://CHsNj2ABSik/m
+photo.8.author: redpan22
+photo.8.commitdate: 2020/11/29
+photo.8.link: https://www.instagram.com/redpan22/
+photo.8.tags: apple time, baby, bite, smile, techitechi
+photo.9: ig://CH2Q4I6B0Wz/m
+photo.9.author: pink.b22
+photo.9.commitdate: 2021/1/9
+photo.9.link: https://www.instagram.com/pink.b22/
+photo.9.tags: portrait, techitechi
+photo.10: ig://CH7n9Chh_D-/m
+photo.10.author: alto0908
+photo.10.commitdate: 2020/12/25
+photo.10.link: https://www.instagram.com/alto0908/
+photo.10.tags: baby, paws, portrait, standing, tree
+photo.11: ig://CH_aEhdBTZ6/m
+photo.11.author: s.okano521
+photo.11.commitdate: 2020/12/25
+photo.11.link: https://www.instagram.com/s.okano521/
+photo.11.tags: baby, paws, standing, tongue, tree
+photo.12: ig://CIA0_MUhO2f/m
+photo.12.author: kaoru_a358
+photo.12.commitdate: 2020/12/25
+photo.12.link: https://www.instagram.com/kaoru_a358/
+photo.12.tags: baby, portrait
+photo.13: ig://CIA-Ma1BbAC/m
+photo.13.author: kaoru_a358
+photo.13.commitdate: 2020/12/25
+photo.13.link: https://www.instagram.com/kaoru_a358/
+photo.13.tags: baby, bridge, grooming, paws, portrait, tail
+photo.14: ig://CIB9pHTBjfn/m
+photo.14.author: hidehaya_biei
+photo.14.commitdate: 2020/12/25
+photo.14.link: https://www.instagram.com/hidehaya_biei/
+photo.14.tags: baby, bridge, laying down, tail
+photo.15: ig://CICmlc6hMBY/m
+photo.15.author: kipekaila
+photo.15.commitdate: 2020/12/25
+photo.15.link: https://www.instagram.com/kipekaila/
+photo.15.tags: baby, bridge, mofumofu, portrait, tongue
+photo.16: ig://CIDIPFmBnWm/m
+photo.16.author: hamiiiii831_
+photo.16.commitdate: 2020/12/25
+photo.16.link: https://www.instagram.com/hamiiiii831_/
+photo.16.tags: baby, mofumofu, portrait, standing
+photo.17: ig://CIDdaHihp-b/m
+photo.17.author: minatomirai215
+photo.17.commitdate: 2020/12/25
+photo.17.link: https://www.instagram.com/minatomirai215/
+photo.17.tags: baby, home, paws, portrait, standing
+photo.18: ig://CIGIEzyB0Ys/m
+photo.18.author: hamiiiii831_
+photo.18.commitdate: 2020/12/25
+photo.18.link: https://www.instagram.com/hamiiiii831_/
+photo.18.tags: baby, portrait, smile
+photo.19: cwdc://XYLr88LADQA.jpg
+photo.19.author: pink.b22
+photo.19.commitdate: 2020/12/25
+photo.19.link: https://www.instagram.com/p/CIHCN71hDWn
+photo.19.tags: baby, portrait, profile, sample, whiskers
+photo.20: ig://CIJfD1NBwd6/m
+photo.20.author: ssc6105
+photo.20.commitdate: 2020/12/3
+photo.20.link: https://www.instagram.com/ssc6105/
+photo.20.tags: laying down, paws, playing, portrait, tail, tree
+photo.21: ig://CINlencB2Kx/m
+photo.21.author: ssc6105
+photo.21.commitdate: 2020/12/25
+photo.21.link: https://www.instagram.com/ssc6105/
+photo.21.tags: baby, mofumofu, portrait, whiskers
+photo.22: ig://CIPAFe6B0au/m
+photo.22.author: panda.daisuki
+photo.22.commitdate: 2020/12/25
+photo.22.link: https://www.instagram.com/panda.daisuki/
+photo.22.tags: apple time, baby, nose, portrait
+photo.23: ig://CIjVlGMheoN/m
+photo.23.author: pink.b22
+photo.23.commitdate: 2020/12/25
+photo.23.link: https://www.instagram.com/pink.b22/
+photo.23.tags: baby, bridge, paws, portrait, smile
+photo.24: ig://CJqgmmRBSHH/m
+photo.24.author: redpan22
+photo.24.commitdate: 2021/5/21
+photo.24.link: https://www.instagram.com/redpan22/
+photo.24.tags: paws, snow, standing
+photo.25: ig://CJyi0z5hfLz/m
+photo.25.author: happy_love2.15
+photo.25.commitdate: 2021/7/21
+photo.25.link: https://www.instagram.com/happy_love2.15/
+photo.25.tags: portrait
+photo.26: ig://CP8HY5SBQIi/m
+photo.26.author: redpan22
+photo.26.commitdate: 2021/6/19
+photo.26.link: https://www.instagram.com/redpan22/
+photo.26.tags: apple time, flowers, paws, tongue
+photo.27: ig://CTKlQ45hZI3/m
+photo.27.author: alto0908
+photo.27.commitdate: 2021/9/8
+photo.27.link: https://www.instagram.com/alto0908/
+photo.27.tags: paws, portrait, standing, tail
+photo.28: ig://CTaI2hOhiPI/m
+photo.28.author: alto0908
+photo.28.commitdate: 2021/10/22
+photo.28.link: https://www.instagram.com/alto0908/
+photo.28.tags: mofumofu, portrait
+photo.29: ig://CTj7P94BiTZ/m
+photo.29.author: redpan22
+photo.29.commitdate: 2021/9/18
+photo.29.link: https://www.instagram.com/redpan22/
+photo.29.tags: flowers, smile
+photo.30: ig://CUs_Rc-h9ZW/m
+photo.30.author: alto0908
+photo.30.commitdate: 2021/11/20
+photo.30.link: https://www.instagram.com/alto0908/
+photo.30.tags: bridge, laying down, paws, peek, portrait, techitechi
+photo.31: ig://CVEM7ynhbn4/m
+photo.31.author: pink.b22
+photo.31.commitdate: 2021/10/30
+photo.31.link: https://www.instagram.com/pink.b22/
+photo.31.tags: laying down, paws, playing, portrait, whiskers
+photo.32: ig://CVG9YHPBOnC/m
+photo.32.author: alto0908
+photo.32.commitdate: 2021/11/14
+photo.32.link: https://www.instagram.com/alto0908/
+photo.32.tags: bridge, laying down, portrait, tail, tongue
+photo.33: ig://CVNZQE8hp2p/m
+photo.33.author: alto0908
+photo.33.commitdate: 2021/11/14
+photo.33.link: https://www.instagram.com/alto0908/
+photo.33.tags: baby, mofumofu, portrait
+photo.34: ig://CWGDNlQh28T/m
+photo.34.author: alto0908
+photo.34.commitdate: 2023/2/4
+photo.34.link: https://www.instagram.com/alto0908/
+photo.34.tags: bridge, peek, portrait, sample
+photo.35: ig://CWNnHh8BHTs/m
+photo.35.author: redpan22
+photo.35.commitdate: 2021/11/21
+photo.35.link: https://www.instagram.com/redpan22/
+photo.35.tags: paws, standing, tail
+photo.36: ig://CWO95cNB8It/m
+photo.36.author: alto0908
+photo.36.commitdate: 2021/11/23
+photo.36.link: https://www.instagram.com/alto0908/
+photo.36.tags: bamboo, bridge, home, laying down, paws, portrait, techitechi, upside-down
+photo.37: ig://CWaSg2LBOw6/m
+photo.37.author: pink.b22
+photo.37.commitdate: 2021/11/28
+photo.37.link: https://www.instagram.com/pink.b22/
+photo.37.tags: bamboo, bite, paws, standing, tail
+photo.38: ig://CW1kd17BYeO/m
+photo.38.author: rie_panda55
+photo.38.commitdate: 2022/1/9
+photo.38.link: https://www.instagram.com/rie_panda55/
+photo.38.tags: paws, portrait, sample, smile, whiskers
+photo.39: ig://CW5uojXBcsf/m
+photo.39.author: redpan22
+photo.39.commitdate: 2021/12/21
+photo.39.link: https://www.instagram.com/redpan22/
+photo.39.tags: paws, sample, smile, whiskers
+photo.40: ig://Cf3oZouPq1o/m
+photo.40.author: alto0908
+photo.40.commitdate: 2022/7/31
+photo.40.link: https://www.instagram.com/alto0908/
+photo.40.tags: bridge, portrait, sample, smile, tongue, whiskers
+photo.41: ig://CgaehdqBPrQ/m
+photo.41.author: alto0908
+photo.41.commitdate: 2022/8/5
+photo.41.link: https://www.instagram.com/alto0908/
+photo.41.tags: laying down, paws, portrait, sample, smile, tongue, whiskers
+photo.42: ig://CgkxylSBk3e/m
+photo.42.author: alto0908
+photo.42.commitdate: 2022/8/7
+photo.42.link: https://www.instagram.com/alto0908/
+photo.42.tags: door, portrait, sample, whiskers
+photo.43: ig://CgxrSsFBDhK/m
+photo.43.author: alto0908
+photo.43.commitdate: 2022/8/5
+photo.43.link: https://www.instagram.com/alto0908/
+photo.43.tags: portrait, sample, smile, whiskers
+photo.44: ig://Ch7nu6bvFRA/m
+photo.44.author: alto0908
+photo.44.commitdate: 2023/9/15
+photo.44.link: https://www.instagram.com/alto0908/
+photo.44.tags: home, portrait, sample, whiskers
+photo.45: ig://Ck9beAchI-k/m
+photo.45.author: nakacchi_desu
+photo.45.commitdate: 2022/12/19
+photo.45.link: https://www.instagram.com/nakacchi_desu/
+photo.45.tags: paws, sample, standing, tail
+photo.46: ig://ClPYVXKBacC/m
+photo.46.author: alto0908
+photo.46.commitdate: 2022/12/19
+photo.46.link: https://www.instagram.com/alto0908/
+photo.46.tags: paws, portrait, sample, smile, whiskers
+photo.47: ig://CmC0c_9ywSr/m
+photo.47.author: ssc6105
+photo.47.commitdate: 2023/3/11
+photo.47.link: https://www.instagram.com/ssc6105/
+photo.47.tags: sample, whiskers
+photo.48: ig://CmfZ6e9huic/m
+photo.48.author: alto0908
+photo.48.commitdate: 2023/1/11
+photo.48.link: https://www.instagram.com/alto0908/
+photo.48.tags: bamboo, portrait, sample, whiskers
+photo.49: ig://CmxUteOBeET/m
+photo.49.author: alto0908
+photo.49.commitdate: 2023/1/11
+photo.49.link: https://www.instagram.com/alto0908/
+photo.49.tags: portrait, sample, whiskers
+photo.50: ig://Co5tVXXBWyk/m
+photo.50.author: ssc6105
+photo.50.commitdate: 2023/2/26
+photo.50.link: https://www.instagram.com/ssc6105/
+photo.50.tags: peek, sample, tail, whiskers
+photo.51: ig://CqIj8bmvs9x/m
+photo.51.author: alto0908
+photo.51.commitdate: 2023/10/4
+photo.51.link: https://www.instagram.com/alto0908/
+photo.51.tags: autumn, bamboo, bridge, home, peek, tail
+photo.52: ig://Cqr9V-HPA3t/m
+photo.52.author: ssc6105
+photo.52.commitdate: 2023/5/16
+photo.52.link: https://www.instagram.com/ssc6105/
+photo.52.tags: sample, whiskers
+photo.53: ig://CquLs5XrWGo/m
+photo.53.author: hidehaya_biei
+photo.53.commitdate: 2023/10/4
+photo.53.link: https://www.instagram.com/hidehaya_biei/
+photo.53.tags: baby, whiskers
+photo.54: ig://Cq7euVNv4Ef/m
+photo.54.author: nasu_animal_kingdom
+photo.54.commitdate: 2023/10/4
+photo.54.link: https://www.instagram.com/nasu_animal_kingdom/
+photo.54.tags: bamboo, sample, tail, whiskers
+photo.55: ig://CrDpwlcvAuL/m
+photo.55.author: alto0908
+photo.55.commitdate: 2023/5/13
+photo.55.link: https://www.instagram.com/alto0908/
+photo.55.tags: paws, portrait, smile, tongue, whiskers
+photo.56: ig://CrS-SWuvMZj/m
+photo.56.author: happy_love2.15
+photo.56.commitdate: 2023/5/4
+photo.56.link: https://www.instagram.com/happy_love2.15/
+photo.56.tags: bamboo, paws, portrait, sample
+photo.57: ig://CuDW3KIhHoH/m
+photo.57.author: nasu_animal_kingdom
+photo.57.commitdate: 2023/8/11
+photo.57.link: https://www.instagram.com/nasu_animal_kingdom/
+photo.57.tags: portrait, sample
+photo.58: ig://CvyiFxRPDdv/m
+photo.58.author: hamiiiii831_
+photo.58.commitdate: 2023/11/18
+photo.58.link: https://www.instagram.com/hamiiiii831_/
+photo.58.tags: peek, sample, tongue, whiskers
+photo.59: ig://CwuIZxaPELe/m
+photo.59.author: sakikukeco
+photo.59.commitdate: 2023/9/12
+photo.59.link: https://www.instagram.com/sakikukeco/
+photo.59.tags: air tasting, portrait, sample, tongue, whiskers
+photo.60: ig://Cw080AgBKAa/m
+photo.60.author: panda.daisuki
+photo.60.commitdate: 2023/11/18
+photo.60.link: https://www.instagram.com/panda.daisuki/
+photo.60.tags: laying down, paws, sample, tongue
+photo.61: ig://CyV4z8gPdZo/m
+photo.61.author: panda.daisuki
+photo.61.commitdate: 2023/11/18
+photo.61.link: https://www.instagram.com/panda.daisuki/
+photo.61.tags: peek, sample, whiskers
+photo.62: ig://CykUokuPwbH/m
+photo.62.author: nasu_animal_kingdom
+photo.62.commitdate: 2023/11/18
+photo.62.link: https://www.instagram.com/nasu_animal_kingdom/
+photo.62.tags: air tasting, tongue, whiskers
+species: 2
+zoo: 53

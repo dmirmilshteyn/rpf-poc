@@ -1,0 +1,19 @@
+[panda]
+_id: 716
+birthday: 2008/8/1
+birthplace: 46
+children: none
+commitdate: 2019/3/27
+death: 2009/5/14
+en.name: Kei-Kei
+en.nicknames: none
+en.othernames: Keikei
+gender: m
+ja.name: ケイケイ
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 715
+species: 2
+studbook.id: 0878
+zoo: 46

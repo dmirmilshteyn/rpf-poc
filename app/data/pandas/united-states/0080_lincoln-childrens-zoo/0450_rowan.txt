@@ -1,0 +1,97 @@
+[panda]
+_id: 450
+birthday: 2017/6/11
+birthplace: 89
+children: 1429, 1430
+commitdate: 2018/11/25
+en.name: Rowan
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ローワン
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 451
+location.1: 89, 2017/6/11
+location.2: 90, 2019/5/7
+location.3: 80, 2023/3/2
+photo.1: cwdc://V8XYDoLADQA.jpg
+photo.1.author: rossparkzoo
+photo.1.commitdate: 2018/11/25
+photo.1.link: https://www.instagram.com/p/BaM4RR1nwID
+photo.1.tags: baby, bamboo, portrait
+photo.2: cwdc://WH7iJSAADQB.jpg
+photo.2.author: rossparkzoo
+photo.2.commitdate: 2018/11/25
+photo.2.link: https://www.instagram.com/p/Bf-9UGwHI_z
+photo.2.tags: baby, mofumofu, paws, techitechi, whiskers
+photo.3: cwdc://WLtqIZ6ADQC.jpg
+photo.3.author: rossparkzoo
+photo.3.commitdate: 2018/11/25
+photo.3.link: https://www.instagram.com/p/Bh4BTqtFFKJ
+photo.3.tags: close-up, portrait, sample, whiskers
+photo.4: cwdc://WMrJwHbADQD.jpg
+photo.4.author: rossparkzoo
+photo.4.commitdate: 2018/11/25
+photo.4.link: https://www.instagram.com/p/BiWxHhdlSKj
+photo.4.tags: ear, portrait, sample, whiskers
+photo.5: cwdc://WNesXuVADQA.jpg
+photo.5.author: rossparkzoo
+photo.5.commitdate: 2018/11/25
+photo.5.link: https://www.instagram.com/p/BiwibU6lBSU
+photo.5.tags: laying down, portrait, profile, sample
+photo.6: cwdc://WTWw2HKADQE.jpg
+photo.6.author: rossparkzoo
+photo.6.commitdate: 2018/11/25
+photo.6.link: https://www.instagram.com/p/BlskqhVFidO
+photo.6.tags: baby, portrait
+photo.7: ig://CEfglaJhLbC/m
+photo.7.author: worldthathesees
+photo.7.commitdate: 2020/9/4
+photo.7.link: https://www.instagram.com/worldthathesees/
+photo.7.tags: lunch time, paws, portrait, whiskers
+photo.8: ig://CEkctRSJsUu/m
+photo.8.author: worldthathesees
+photo.8.commitdate: 2020/9/4
+photo.8.link: https://www.instagram.com/worldthathesees/
+photo.8.tags: lunch time, paws, portrait, whiskers
+photo.9: ig://CEr-ulYpR-H/m
+photo.9.author: worldthathesees
+photo.9.commitdate: 2020/9/12
+photo.9.link: https://www.instagram.com/worldthathesees/
+photo.9.tags: peek, portrait, tail
+photo.10: ig://CEz-eF_pzQo/m
+photo.10.author: worldthathesees
+photo.10.commitdate: 2020/9/19
+photo.10.link: https://www.instagram.com/worldthathesees/
+photo.10.tags: portrait
+photo.11: ig://CJYYGiHLvk1/m
+photo.11.author: rossifari
+photo.11.commitdate: 2021/5/21
+photo.11.link: https://www.instagram.com/rossifari/
+photo.11.tags: portrait, tongue, whiskers
+photo.12: ig://CMtjLaDgpNc/m
+photo.12.author: rossifari
+photo.12.commitdate: 2021/6/23
+photo.12.link: https://www.instagram.com/rossifari/
+photo.12.tags: lunch time, portrait, tongue
+photo.13: ig://CYBss5lLFsC/m
+photo.13.author: worldthathesees
+photo.13.commitdate: 2023/4/14
+photo.13.link: https://www.instagram.com/worldthathesees/
+photo.13.tags: paws, tree
+photo.14: ig://ConpLaQt8dQ/m
+photo.14.author: lincolnchildrenszoo
+photo.14.commitdate: 2023/4/3
+photo.14.link: https://www.instagram.com/lincolnchildrenszoo/
+photo.14.tags: apple time, paws, portrait, sample, whiskers
+photo.15: ig://CyTSSBMNyad/m
+photo.15.author: lincolnchildrenszoo
+photo.15.commitdate: 2023/10/24
+photo.15.link: https://www.instagram.com/lincolnchildrenszoo/
+photo.15.tags: peek, portrait, sample, whiskers
+species: 2
+studbook.id: 1709
+uncertainty: location.3 exact date (may be a month earlier)
+zoo: 80

@@ -1,0 +1,71 @@
+[panda]
+_id: 1405
+birthday: 2022/6/1
+birthplace: 86
+children: none
+commitdate: 2023/2/26
+en.name: Maple
+en.nicknames: none
+en.othernames: Moose
+gender: m
+ja.name: 松楓
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+location.1: 86, 2022/6/1
+location.2: 94, 2024/1/29
+litter: 1404
+photo.1: ig://CiRTFFFrehq/m
+photo.1.author: westcoast_kathy
+photo.1.commitdate: 2023/2/26
+photo.1.link: https://www.instagram.com/westcoast_kathy/
+photo.1.tags: baby, mofumofu, mother's day, tail
+photo.2: ig://CigjFLCpz5r/m
+photo.2.author: westcoast_kathy
+photo.2.commitdate: 2023/2/26
+photo.2.link: https://www.instagram.com/westcoast_kathy/
+photo.2.tags: baby, mofumofu, portrait, sample, whiskers
+photo.3: ig://Cjl-_YKJwAv/m
+photo.3.author: westcoast_kathy
+photo.3.commitdate: 2023/2/26
+photo.3.link: https://www.instagram.com/westcoast_kathy/
+photo.3.tags: baby, bamboo, close-up, mofumofu, portrait
+photo.4: ig://Clpk8H6raSl/m
+photo.4.author: westcoast_kathy
+photo.4.commitdate: 2023/2/26
+photo.4.link: https://www.instagram.com/westcoast_kathy/
+photo.4.tags: baby, bamboo, portrait, sample, snow
+photo.5: ig://CmS3-YArqj_/m
+photo.5.author: westcoast_kathy
+photo.5.commitdate: 2023/9/30
+photo.5.link: https://www.instagram.com/westcoast_kathy/
+photo.5.tags: bamboo, sample, whiskers
+photo.6: ig://CnInDe8PMA4/m
+photo.6.author: westcoast_kathy
+photo.6.commitdate: 2023/2/26
+photo.6.link: https://www.instagram.com/westcoast_kathy/
+photo.6.tags: baby, close-up, sample, whiskers
+photo.7: ig://Coqsv3OLH3R/m
+photo.7.author: westcoast_kathy
+photo.7.commitdate: 2023/2/26
+photo.7.link: https://www.instagram.com/westcoast_kathy/
+photo.7.tags: baby, bamboo, mofumofu, paws, sample, standing, tail, whiskers
+photo.8: ig://CpwM2acLGhA/m
+photo.8.author: westcoast_kathy
+photo.8.commitdate: 2023/10/18
+photo.8.link: https://www.instagram.com/westcoast_kathy/
+photo.8.tags: portrait, sample, snow, whiskers
+photo.9: ig://CqEo5mwpUgB/m
+photo.9.author: westcoast_kathy
+photo.9.commitdate: 2023/10/4
+photo.9.link: https://www.instagram.com/westcoast_kathy/
+photo.9.tags: paws, sample, techitechi, whiskers
+photo.10: ig://CtnG1YuvStW/m
+photo.10.author: westcoast_kathy
+photo.10.commitdate: 2023/8/10
+photo.10.link: https://www.instagram.com/westcoast_kathy/
+photo.10.tags: mofumofu, portrait, sample, whiskers
+species: 2
+studbook.id: unknown
+uncertainty: exact birthday in June, location.2 exact date
+zoo: 94

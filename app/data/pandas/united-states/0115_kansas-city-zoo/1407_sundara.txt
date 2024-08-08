@@ -1,0 +1,25 @@
+[panda]
+_id: 1407
+birthday: 2022/5/23
+birthplace: 115
+children: none
+commitdate: 2023/4/14
+en.name: Sundara
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: スンダラ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 1406
+photo.1: ig://CmtlKP-Om-9/m
+photo.1.author: worldthathesees
+photo.1.commitdate: 2023/4/14
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: baby, whiskers
+species: 1
+zh.name: 孙达拉
+zh.nicknames: none
+zh.othernames: none
+zoo: 115

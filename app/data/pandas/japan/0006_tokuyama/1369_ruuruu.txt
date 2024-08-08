@@ -1,0 +1,217 @@
+[panda]
+_id: 1369
+birthday: 2022/6/17
+birthplace: 6
+children: none
+commitdate: 2022/7/14
+en.name: Ruu-Ruu
+en.nicknames: none
+en.othernames: Luu-Luu, Luuluu, Ruuruu, Ruru, Lulu, Lu-Lu, Ru-Ru,
+gender: m
+ja.name: ルールー
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 1368
+photo.1: cwdc://YNGAzmyADQA.jpg
+photo.1.author: shunankeizai
+photo.1.commitdate: 2022/9/18
+photo.1.link: https://www.instagram.com/p/CikMpRJJtrQ
+photo.1.tags: baby, mofumofu, portrait, profile, sample
+photo.2: ig://CixLFFgPnr1/m
+photo.2.author: kojikoji2011
+photo.2.commitdate: 2022/10/6
+photo.2.link: https://www.instagram.com/kojikoji2011/
+photo.2.tags: baby, mofumofu, portrait, sample, whiskers
+photo.3: ig://CjPxZdyPhfs/m
+photo.3.author: monmon_redpanda
+photo.3.commitdate: 2022/10/14
+photo.3.link: https://www.instagram.com/monmon_redpanda/
+photo.3.tags: baby, bamboo, portrait, sample
+photo.4: ig://Cjo8hdkhcuo/m
+photo.4.author: re_ichimaru
+photo.4.commitdate: 2022/10/14
+photo.4.link: https://www.instagram.com/re_ichimaru/
+photo.4.tags: baby, bamboo, portrait, sample
+photo.5: ig://Cjuk2Sjhfwq/m
+photo.5.author: re_ichimaru
+photo.5.commitdate: 2022/11/14
+photo.5.link: https://www.instagram.com/re_ichimaru/
+photo.5.tags: baby, climb, mofumofu, paws, sample, tail
+photo.6: ig://Cjz-1ehBgzJ/m
+photo.6.author: kojikoji2011
+photo.6.commitdate: 2022/11/4
+photo.6.link: https://www.instagram.com/kojikoji2011/
+photo.6.tags: baby, paws, portrait, sample, whiskers
+photo.7: ig://Cj8GLXBLvp3/m
+photo.7.author: miis_98
+photo.7.commitdate: 2022/11/14
+photo.7.link: https://www.instagram.com/miis_98/
+photo.7.tags: baby, climb, paws, standing
+photo.8: ig://CkfpErWP0a-/m
+photo.8.author: kojikoji2011
+photo.8.commitdate: 2023/1/1
+photo.8.link: https://www.instagram.com/kojikoji2011/
+photo.8.tags: baby, mofumofu, portrait, sample, whiskers
+photo.9: ig://CklIFDEvFCr/m
+photo.9.author: kojikoji2011
+photo.9.commitdate: 2022/12/20
+photo.9.link: https://www.instagram.com/kojikoji2011/
+photo.9.tags: baby, door, mofumofu, portrait, sample, tail
+photo.10: ig://CkqGRfFPK82/m
+photo.10.author: resapanlove
+photo.10.commitdate: 2022/12/24
+photo.10.link: https://www.instagram.com/resapanlove/
+photo.10.tags: baby, close-up, paws, portraitl sample, whiskers, window
+photo.11: ig://CkzqbgVP3tL/m
+photo.11.author: re_ichimaru
+photo.11.commitdate: 2023/1/27
+photo.11.link: https://www.instagram.com/re_ichimaru/
+photo.11.tags: baby, peek, portrait, sample
+photo.12: ig://Ck22eB-v4wI/m
+photo.12.author: fetorus_mami
+photo.12.commitdate: 2022/12/20
+photo.12.link: https://www.instagram.com/fetorus_mami/
+photo.12.tags: baby, home, laying down, paws, playing, sample, upside-down
+photo.13: ig://Ck5bbX5v5X7/m
+photo.13.author: fetorus_mami
+photo.13.commitdate: 2022/12/20
+photo.13.link: https://www.instagram.com/fetorus_mami/
+photo.13.tags: apple time, baby, close-up, keeper, mofumofu, sample
+photo.14: ig://ClAfRfUPaer/m
+photo.14.author: fetorus_mami
+photo.14.commitdate: 2023/2/4
+photo.14.link: https://www.instagram.com/fetorus_mami/
+photo.14.tags: baby, peek, tail
+photo.15: ig://ClAfpgEv2lF/m
+photo.15.author: fetorus_mami
+photo.15.commitdate: 2023/2/4
+photo.15.link: https://www.instagram.com/fetorus_mami/
+photo.15.tags: baby, laying down, mofumofu, paws, playing, tail
+photo.16: ig://ClD8B86Pz_L/m
+photo.16.author: fetorus_mami
+photo.16.commitdate: 2023/2/4
+photo.16.link: https://www.instagram.com/fetorus_mami/
+photo.16.tags: baby, paws, tail
+photo.17: ig://ClGocWJvDu2/m
+photo.17.author: kojikoji2011
+photo.17.commitdate: 2022/12/20
+photo.17.link: https://www.instagram.com/kojikoji2011/
+photo.17.tags: baby, home, mofumofu, portrait, sample, tail
+photo.18: ig://ClVFjJOvsUw/m
+photo.18.author: re_ichimaru
+photo.18.commitdate: 2022/12/10
+photo.18.link: https://www.instagram.com/re_ichimaru/
+photo.18.tags: baby, laying down, mofumofu, playing, portrait
+photo.19: ig://ClWGcfLvUZD/m
+photo.19.author: kojikoji2011
+photo.19.commitdate: 2023/1/20
+photo.19.link: https://www.instagram.com/kojikoji2011/
+photo.19.tags: baby, laying down, mofumofu, tail
+photo.20: ig://ClYXAxDvWo3/m
+photo.20.author: daniele.tokyo
+photo.20.commitdate: 2023/2/4
+photo.20.link: https://www.instagram.com/daniele.tokyo/
+photo.20.tags: baby, laying down, paws, portrait, sample
+photo.21: ig://CleEOGxPGPz/m
+photo.21.author: kojikoji2011
+photo.21.commitdate: 2023/1/20
+photo.21.link: https://www.instagram.com/kojikoji2011/
+photo.21.tags: baby, bite, laying down, portrait, sample
+photo.22: ig://CljLh0UvtCT/m
+photo.22.author: kojikoji2011
+photo.22.commitdate: 2023/1/26
+photo.22.link: https://www.instagram.com/kojikoji2011/
+photo.22.tags: baby, laying down, portrait, sample, whiskers
+photo.23: ig://CmJSHPYPpzI/m
+photo.23.author: daniele.tokyo
+photo.23.commitdate: 2023/3/11
+photo.23.link: https://www.instagram.com/daniele.tokyo/
+photo.23.tags: baby, climb, paws, sample
+photo.24: ig://CmeRqs1Px01/m
+photo.24.author: kojikoji2011
+photo.24.commitdate: 2023/1/11
+photo.24.link: https://www.instagram.com/kojikoji2011/
+photo.24.tags: baby, close-up, mofumofu, portrait, wet, whiskers
+photo.25: ig://CmwC7Y9Pi3X/m
+photo.25.author: resapanlove
+photo.25.commitdate: 2023/1/14
+photo.25.link: https://www.instagram.com/resapanlove/
+photo.25.tags: baby, bamboo, mofumofu, paws, sample
+photo.26: ig://CnOvK-8Pq7F/m
+photo.26.author: yossi929
+photo.26.commitdate: 2023/8/22
+photo.26.link: https://www.instagram.com/yossi929/
+photo.26.tags: bamboo, mofumofu, paws, portrait, sample
+photo.27: ig://CnO3tPCPasa/m
+photo.27.author: yuredpanda
+photo.27.commitdate: 2023/8/22
+photo.27.link: https://www.instagram.com/yuredpanda/
+photo.27.tags: baby, mofumofu, paws, portrait, sample
+photo.28: ig://CnPE5btvsBg/m
+photo.28.author: redpanda_nippon_takashi
+photo.28.commitdate: 2023/8/22
+photo.28.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.28.tags: apple time, baby, bite, mofumofu, peek
+photo.29: ig://CnP5DIxBB3O/m
+photo.29.author: hamamatsu.chiita
+photo.29.commitdate: 2023/2/26
+photo.29.link: https://www.instagram.com/hamamatsu.chiita/
+photo.29.tags: baby, laying down, mofumofu, portrait, sample
+photo.30: ig://CnbrjcLv0Zc/m
+photo.30.author: daniele.tokyo
+photo.30.commitdate: 2023/3/9
+photo.30.link: https://www.instagram.com/daniele.tokyo/
+photo.30.tags: laying down, mofumofu, portrait, sample, smile, whiskers
+photo.31: ig://CneRwoRPMqx/m
+photo.31.author: jas_forever_love
+photo.31.commitdate: 2023/3/9
+photo.31.link: https://www.instagram.com/jas_forever_love/
+photo.31.tags: apple time, keeper, paws
+photo.32: ig://Cnojh7FraG3/m
+photo.32.author: daniele.tokyo
+photo.32.commitdate: 2023/3/6
+photo.32.link: https://www.instagram.com/daniele.tokyo/
+photo.32.tags: bridge, laying down, mofumofu, sample
+photo.33: ig://CnzL2rFv9_D/m
+photo.33.author: kojikoji2011
+photo.33.commitdate: 2023/3/9
+photo.33.link: https://www.instagram.com/kojikoji2011/
+photo.33.tags: bridge, paws, peek, portrait, sample
+photo.34: ig://CoCd6DBL_tN/m
+photo.34.author: tomo3700
+photo.34.commitdate: 2023/2/25
+photo.34.link: https://www.instagram.com/tomo3700/
+photo.34.tags: laying down, mofumofu, portrait, sample, tail
+photo.35: ig://ComiNK6vKRV/m
+photo.35.author: resapanlove
+photo.35.commitdate: 2023/2/24
+photo.35.link: https://www.instagram.com/resapanlove/
+photo.35.tags: blink, close-up, portrait, yawn
+photo.36: ig://CpZ2gIXP9TN/m
+photo.36.author: daniele.tokyo
+photo.36.commitdate: 2023/11/19
+photo.36.link: https://www.instagram.com/daniele.tokyo/
+photo.36.tags: baby, bite, mofumofu, sample
+photo.37: ig://CpfAGFpPyav/m
+photo.37.author: daniele.tokyo
+photo.37.commitdate: 2023/5/23
+photo.37.link: https://www.instagram.com/daniele.tokyo/
+photo.37.tags: baby, laying down, paws, playing, tail
+photo.38: ig://CqLCQYCvLs0/m
+photo.38.author: gloryeui
+photo.38.commitdate: 2023/6/20
+photo.38.link: https://www.instagram.com/gloryeui/
+photo.38.tags: bamboo, mofumofu, peek, portrait, sample
+photo.39: ig://CqMNKMgBnYT/m
+photo.39.author: tomo3700
+photo.39.commitdate: 2023/6/20
+photo.39.link: https://www.instagram.com/tomo3700/
+photo.39.tags: baby, mofumofu, paws, peek, portrait
+photo.40: ig://CrA2TwFv0d-/m
+photo.40.author: daniele.tokyo
+photo.40.commitdate: 2023/11/18
+photo.40.link: https://www.instagram.com/daniele.tokyo/
+photo.40.tags: laying down, sample
+species: 2
+zoo: 6

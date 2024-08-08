@@ -1,0 +1,19 @@
+[panda]
+_id: 857
+birthday: 2004/7/13
+birthplace: 26
+children: none
+commitdate: 2019/5/21
+death: 2006/11/6
+en.name: Kaze
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: 風
+ja.nicknames: none
+ja.othernames: カゼ
+language.order: ja, en
+litter: 856
+species: 2
+studobok.id: 0479
+zoo: 26

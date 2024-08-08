@@ -1,0 +1,20 @@
+[zoo]
+_id: 2
+commitdate: 2018/6/10
+en.address: Okazaki Hoshojicho, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8333, Japan
+en.location: Kyoto City, Kyoto Prefecture, Sakyo Ward, Japan
+en.name: Kyoto City Zoo
+flag: Japan
+ja.address: 〒606-8333 京都府京都市左京区岡崎法勝寺町
+ja.location: 京都市 京都府 左京区
+ja.name: 京都市動物園
+language.order: ja, en
+latitude: 35.0126991
+longitude: 135.7839212
+map: https://goo.gl/maps/BzPvCJ64eiB2
+photo.1: cwdc://V1oUjSdADQA.jpg
+photo.1.author: apple_jasmine33
+photo.1.commitdate: 2019/4/30
+photo.1.link: https://www.instagram.com/p/BW1WhG-hsyy
+photo.1.tags: profile
+website: http://www5.city.kyoto.jp/zoo/

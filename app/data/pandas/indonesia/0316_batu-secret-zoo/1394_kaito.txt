@@ -1,0 +1,130 @@
+[panda]
+_id: 1394
+birthday: 2022/6/27
+birthplace: 13
+children: none
+commitdate: 2022/9/24
+en.name: Kaito
+en.nicknames: none
+en.othernames: Kite
+gender: m
+ja.name: カイト
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 1395
+location.1: 13, 2022/6/27
+location.2: 316, 2024/6/2
+photo.1: ig://CjMTENiPf35/m
+photo.1.author: joy93.87
+photo.1.commitdate: 2022/10/14
+photo.1.link: https://www.instagram.com/joy93.87/
+photo.1.tags: baby, keeper, mofumofu, whiskers
+photo.2: ig://CjahubdrynA/m
+photo.2.author: fetorus_mami
+photo.2.commitdate: 2022/10/20
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.2.tags: apple time, baby, bite, dish, tail
+photo.3: ig://Cjcy6TPPlvq/m
+photo.3.author: fetorus_mami
+photo.3.commitdate: 2022/10/14
+photo.3.link: https://www.instagram.com/fetorus_mami/
+photo.3.tags: baby, mofumofu, portrait, sample, tail
+photo.4: cwdc://YO_NKpiADQA.jpg
+photo.4.author: resapanlove
+photo.4.commitdate: 2022/10/14
+photo.4.link: https://www.instagram.com/p/Cjgy0yhP2Lu
+photo.4.tags: baby, close-up, door, mofumofu, portrait, profile, sample, tail
+photo.5: ig://CjiWgNUPrXg/m
+photo.5.author: sakikukeco
+photo.5.commitdate: 2022/10/14
+photo.5.link: https://www.instagram.com/sakikukeco/
+photo.5.tags: baby, close-up, mofumofu, portrait, sample
+photo.6: ig://CjoW7E2BYA8/m
+photo.6.author: tomo3700
+photo.6.commitdate: 2022/10/14
+photo.6.link: https://www.instagram.com/tomo3700/
+photo.6.tags: baby, keeper, portrait, sample, tail
+photo.7: ig://CjtW-8Jh6d3/m
+photo.7.author: hamamatsu.chiita
+photo.7.commitdate: 2022/11/14
+photo.7.link: https://www.instagram.com/hamamatsu.chiita/
+photo.7.tags: baby, close-up, mofumofu, portrait, sample, whiskers
+photo.8: ig://CjwJE9rhXDX/m
+photo.8.author: minato.yokohama4416
+photo.8.commitdate: 2022/11/4
+photo.8.link: https://www.instagram.com/minato.yokohama4416/
+photo.8.tags: baby, climb, mofumofu, paws, portrait, sample
+photo.9: ig://Cj33xhmBOeb/m
+photo.9.author: tomo3700
+photo.9.commitdate: 2023/3/17
+photo.9.link: https://www.instagram.com/tomo3700/
+photo.9.tags: apple time, baby, dish, mofumofu, portrait
+photo.10: ig://Cj-aeI0vAT-/m
+photo.10.author: resapanlove
+photo.10.commitdate: 2022/11/4
+photo.10.link: https://www.instagram.com/resapanlove/
+photo.10.tags: baby, mofumofu, portrait, sample, tail
+photo.11: ig://Ck5HDQHPROk/m
+photo.11.author: leonard_redmof
+photo.11.commitdate: 2022/12/19
+photo.11.link: https://www.instagram.com/leonard_redmof/
+photo.11.tags: baby, mofumofu, portrait, tongue
+photo.12: ig://ClGieGwPmMo/m
+photo.12.author: kotata_513
+photo.12.commitdate: 2022/12/20
+photo.12.link: https://www.instagram.com/kotata_513/
+photo.12.tags: baby, peek, sample
+photo.13: ig://CmQWE4hv6jt/m
+photo.13.author: hamiiiii831_
+photo.13.commitdate: 2023/3/11
+photo.13.link: https://www.instagram.com/hamiiiii831_/
+photo.13.tags: baby, bamboo, peek, sample, smile, toys
+photo.14: ig://CnNhuW8hxFw/m
+photo.14.author: tomo3700
+photo.14.commitdate: 2023/8/22
+photo.14.link: https://www.instagram.com/tomo3700/
+photo.14.tags: baby, home, paws, portrait, sample, smile, standing
+photo.15: ig://CnblBNiv3_t/m
+photo.15.author: yuredpanda
+photo.15.commitdate: 2023/3/9
+photo.15.link: https://www.instagram.com/yuredpanda/
+photo.15.tags: baby, portrait, sample, tree
+photo.16: ig://CoavSq-hila/m
+photo.16.author: tomo3700
+photo.16.commitdate: 2023/8/23
+photo.16.link: https://www.instagram.com/tomo3700/
+photo.16.tags: baby, paws, portrait, sample, sign
+photo.17: ig://CpYbP_mBUYc/m
+photo.17.author: hamamatsu.chiita
+photo.17.commitdate: 2023/10/24
+photo.17.link: https://www.instagram.com/hamamatsu.chiita/
+photo.17.tags: paws, portrait, sample, wet
+photo.18: ig://Cp-Af-Pvnh0/m
+photo.18.author: daniele.tokyo
+photo.18.commitdate: 2023/10/18
+photo.18.link: https://www.instagram.com/daniele.tokyo/
+photo.18.tags: baby, sample, tree, whiskers
+photo.19: ig://CqaSRZ7PgRs/m
+photo.19.author: kotata_513
+photo.19.commitdate: 2023/6/20
+photo.19.link: https://www.instagram.com/kotata_513/
+photo.19.tags: laying down, paws, portrait, sample, tree
+photo.20: ig://CrvgVRxPpY2/m
+photo.20.author: resapanlove
+photo.20.commitdate: 2023/5/3
+photo.20.link: https://www.instagram.com/resapanlove/
+photo.20.tags: laying down, portrait, sample, white face
+photo.21: ig://Cs2BYj8BQX4/m
+photo.21.author: tomo3700
+photo.21.commitdate: 2023/6/10
+photo.21.link: https://www.instagram.com/tomo3700/
+photo.21.tags: bamboo, portrait, sample, shoots
+photo.22: ig://Cw435sSPnwP/m
+photo.22.author: jas_forever_love
+photo.22.commitdate: 2023/9/24
+photo.22.link: https://www.instagram.com/jas_forever_love/
+photo.22.tags: paws, sample, whiskers
+species: 2
+studbook.id: unknown
+zoo: 316

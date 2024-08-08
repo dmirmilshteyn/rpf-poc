@@ -1,0 +1,28 @@
+[panda]
+_id: 1434
+birthday: 2024/6/24
+birthplace: 40
+children: none
+commitdate: 2024/7/15
+en.name: Baby
+en.nicknames: none
+en.othernames: none
+gender: unknown
+ja.name: 赤ちゃん
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: none
+photo.1: cwdc://ZCq6MVGADQA.jpg
+photo.1.author: asazoo_hiroshima
+photo.1.commitdate: 2024/7/15
+photo.1.link: ig://C9WpVoTSLFM
+photo.1.tags: baby, bamboo, newborn, portrait
+photo.2: cwdc://ZCq6MVGADQB.jpg
+photo.2.author: asazoo_hiroshima
+photo.2.commitdate: 2024/7/15
+photo.2.link: ig://C9WpVoTSLFN
+photo.2.tags: baby, close-up, newborn, mofumofu, portrait
+species: 2
+studbook.id: unknown
+zoo: 40

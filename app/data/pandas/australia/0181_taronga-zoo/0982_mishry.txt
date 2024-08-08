@@ -1,0 +1,22 @@
+[panda]
+_id: 982
+birthday: 2018/12/7
+birthplace: 181
+children: none
+commitdate: 2019/8/24
+en.name: Mishry
+en.nicknames: none
+en.othernames: Mishri
+gender: f
+ja.name: ミシュリ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 983, 984
+photo.1: cwdc://XJ-wiPWADQA.jpg
+photo.1.author: ellepatrice
+photo.1.commitdate: 2020/6/20
+photo.1.link: ig://CBAkglbAJMB
+photo.1.tags: mofumofu, profile, whiskers, white face
+species: 1
+zoo: 181

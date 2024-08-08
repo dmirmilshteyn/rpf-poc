@@ -1,0 +1,20 @@
+[panda]
+_id: 1152
+birthday: 2010/6/21
+birthplace: 230
+children: unknown
+commitdate: 2020/5/3
+en.name: Liang
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: リャン
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 1151
+species: 1
+zh.name: 梁
+zh.nicknames: none
+zh.othernames: none
+zoo: 230

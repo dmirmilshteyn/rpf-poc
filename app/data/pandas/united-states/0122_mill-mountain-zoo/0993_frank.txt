@@ -1,0 +1,35 @@
+[panda]
+_id: 993
+birthday: 2018/6/12
+birthplace: 118
+children: none
+commitdate: 2019/10/12
+en.name: Frank
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: フランク
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 991, 992
+location.1: 118, 2018/6/12
+location.2: 122, 2022/3/29
+photo.1: ig://BxsUQtiFqtk/m
+photo.1.author: greenvilleaazk
+photo.1.commitdate: 2019/10/20
+photo.1.link: https://www.instagram.com/greenvilleaazk/
+photo.1.tags: peek, portrait, profile, white face
+photo.2: ig://CYFR1pEL_TL/m
+photo.2.author: worldthathesees
+photo.2.commitdate: 2023/6/16
+photo.2.link: https://www.instagram.com/worldthathesees/
+photo.2.tags: baby, whiskers, white face
+photo.3: ig://Cmb8Z9gu_28/m
+photo.3.author: millmountainzoo
+photo.3.commitdate: 2023/6/16
+photo.3.link: https://www.instagram.com/millmountainzoo/
+photo.3.tags: close-up, mofumofu, whiskers, white face
+species: 1
+uncertainty: location.2 is press release
+zoo: 122

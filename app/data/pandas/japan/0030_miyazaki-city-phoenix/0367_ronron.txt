@@ -1,0 +1,19 @@
+[panda]
+_id: 367
+birthday: 1995/6/15
+birthplace: 30
+children: 68, 252
+commitdate: 2018/10/27
+death: 2007/12/17
+en.name: Ron-Ron
+en.nicknames: none
+en.othernames: Long-Long
+gender: m
+ja.name: 龍龍
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: none
+species: 2
+studbook.id: 9590
+zoo: 30

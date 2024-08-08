@@ -1,0 +1,32 @@
+[panda]
+_id: 391
+birthday: 2015/6/12
+birthplace: 65
+children: none
+commitdate: 2018/11/18
+en.name: Kelly
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ケリー
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: none
+location.1: 65, 2015/6/12
+location.2: 94, 2016/5/12
+location.3: 86, 2024/5/8
+photo.1: cwdc://Vxt6SYYADQA.jpg
+photo.1.author: arnaultlavillephotography
+photo.1.commitdate: 2020/2/26
+photo.1.link: ig://BU4JYp8D4j_
+photo.1.tags: climb
+photo.2: cwdc://W0asbjiADQA.jpg
+photo.2.author: realmylah100
+photo.2.commitdate: 2020/2/26
+photo.2.link: ig://B2OidPhJd8p
+photo.2.tags: bridge, climb, portrait, smile, tail
+species: 2
+studbook.id: 1511
+uncertainty: location.3 exact date
+zoo: 86

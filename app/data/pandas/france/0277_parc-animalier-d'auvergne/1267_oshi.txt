@@ -1,0 +1,18 @@
+[panda]
+_id: 1267
+birthday: unknown
+birthplace: unknown
+children: unknown
+commitdate: 2021/4/10
+en.name: Oshi
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: オシ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+location.1: unknown, unknown
+location.2: 277, unknown
+species: 1
+zoo: 277

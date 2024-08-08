@@ -1,0 +1,18 @@
+[panda]
+_id: 1276
+birthday: unknown
+birthplace: unknown
+children: unknown
+commitdate: 2021/4/11
+en.name: Pipa
+en.nicknames: none
+en.othernames: Pippa
+gender: f
+ja.name: ピパ
+ja.nicknames: none
+ja.othernames: ピッパ
+language.order: en, ja
+location.1: unknown, unknown
+location.2: 278, 2019/7/9
+species: 1
+zoo: 278

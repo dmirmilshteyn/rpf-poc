@@ -1,0 +1,24 @@
+[panda]
+_id: 856
+birthday: 2004/7/13
+birthplace: 26
+children: 214
+commitdate: 2019/5/21
+death: 2014/10/8
+en.name: Riku
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: リク
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 857
+photo.1: cwdc://XcPv8V1ADQA.jpg
+photo.1.author: zoowfreedom299
+photo.1.commitdate: 2023/2/26
+photo.1.link: ig://CKJENoqhm4k
+photo.1.tags: profile, sample, snow, whiskers
+species: 2
+studbook.id: 0480
+zoo: 26

@@ -1,0 +1,37 @@
+[zoo]
+_id: 1
+commitdate: 2018/6/10
+en.address: Ichikawa City Zoo, Japan, 〒272-0801 Chiba Prefecture, Ichikawa, 大町284番１ 外
+en.location: Ichikawa, Chiba Prefecture, Japan
+en.name: Ichikawa Zoological & Botanical Gardens
+flag: Japan
+ja.address: 〒272-0801 千葉県市川市大町２８４番１外
+ja.location: 市川市千葉県
+ja.name: 市川市動植物園
+language.order: ja, en
+latitude: 35.7642063
+longitude: 139.9638014
+map: https://goo.gl/maps/WSyNu7HFhH42
+opened: 1987/8/21
+photo.1: ig://BuN5aUfj2Ll/m
+photo.1.author: aojiru.kazuyo
+photo.1.commitdate: 2019/5/7
+photo.1.link: https://www.instagram.com/aojiru.kazuyo/
+photo.2: ig://Bw08s_EpB0k/m
+photo.2.author: junkoguitar
+photo.2.commitdate: 2019/5/7
+photo.2.link: https://www.instagram.com/junkoguitar/
+photo.3: ig://BxAFlRxA-aC/m
+photo.3.author: suzuriki1234
+photo.3.commitdate: 2019/5/7
+photo.3.link: https://www.instagram.com/suzuriki1234/
+photo.4: ig://CCU0eXbhQI1/m
+photo.4.author: alto0908
+photo.4.commitdate: 2020/7/13
+photo.4.link: https://www.instagram.com/alto0908/
+photo.5: cwdc://YV8MmqyADQA.jpg
+photo.5.author: fetorus_mami
+photo.5.commitdate: 2023/8/22
+photo.5.link: https://www.instagram.com/p/Cm_SizJP8LD
+photo.5.tags: profile
+website: http://www.city.ichikawa.lg.jp/zoo/index.html

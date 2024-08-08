@@ -1,0 +1,19 @@
+[panda]
+_id: 569
+birthday: 1996/7/5
+birthplace: 42
+children: none
+commitdate: 2019/3/11
+death: 2014/10/21
+en.name: Non
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ノン
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: none
+species: 2
+studbook.id: 9694
+zoo: 42

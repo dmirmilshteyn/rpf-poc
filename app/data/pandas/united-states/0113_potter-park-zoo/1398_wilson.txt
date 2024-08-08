@@ -1,0 +1,48 @@
+[panda]
+_id: 1398
+birthday: 2022/7/21
+birthplace: 113
+children: none
+commitdate: 2022/11/4
+en.name: Wilson
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ウィルソン
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: none
+photo.1: ig://CiqLdMhOFi9/m
+photo.1.author: potterparkzoo
+photo.1.commitdate: 2022/11/4
+photo.1.link: https://www.instagram.com/potterparkzoo/
+photo.1.tags: baby, close-up, mofumofu, profile, whiskers
+photo.2: ig://Cnt-d4DOqvo/m
+photo.2.author: potterparkzoo
+photo.2.commitdate: 2023/2/25
+photo.2.link: https://www.instagram.com/potterparkzoo/
+photo.2.tags: baby, bamboo
+photo.3: ig://CqK77R6MlrC/m
+photo.3.author: potterparkzoo
+photo.3.commitdate: 2023/6/20
+photo.3.link: https://www.instagram.com/potterparkzoo/
+photo.3.tags: baby, peek
+photo.4: ig://CwVAYjnMy1w/m
+photo.4.author: potterparkzoo
+photo.4.commitdate: 2023/11/18
+photo.4.link: https://www.instagram.com/potterparkzoo/
+photo.4.tags: smile, whiskers
+photo.5: cwdc://Yo--oqCADQA.jpg
+photo.5.author: wumpwoast
+photo.5.commitdate: 2023/11/18
+photo.5.link: https://www.instagram.com/p/CwgrjyxLtDQ
+photo.5.tags: peek, portrait
+photo.6: cwdc://YpBwAcmADQA.jpg
+photo.6.author: wumpwoast
+photo.6.commitdate: 2023/11/18
+photo.6.link: https://www.instagram.com/p/CwiEPsDLytZ
+photo.6.tags: bamboo, peek, portrait
+species: 1
+studbook.id: unknown
+zoo: 113

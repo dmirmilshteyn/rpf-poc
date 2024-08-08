@@ -1,0 +1,25 @@
+[panda]
+_id: 1087
+birthday: 2011/6/1
+birthplace: wild.6
+children: unknown
+commitdate: 2019/12/31
+en.name: Gauri
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ガウリ
+ja.nicknames: none
+ja.othernames: none
+language.order: ne, en, ja
+litter: unknown
+ne.name: गौरी
+ne.nicknames: none
+ne.othernames: none
+photo.1: ig://lxYIRToO9d/m
+photo.1.author: jintheranger
+photo.1.commitdate: 2020/3/28
+photo.1.link: https://www.instagram.com/jintheranger/
+photo.1.tags: apple time, bamboo, dish, portrait, profile
+species: 1
+zoo: 233

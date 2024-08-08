@@ -1,0 +1,27 @@
+[panda]
+_id: 687
+birthday: 2016/6/6
+birthplace: 131
+children: 861, 862
+commitdate: 2019/3/25
+death: 2023/8/12
+en.name: Lali
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ラリ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 579
+location.1: 131, 2016/6/6
+location.2: 177, 2017/4/19
+photo.1: cwdc://WWIpiT-ADQA.jpg
+photo.1.author: campergirl98
+photo.1.commitdate: 2019/12/7
+photo.1.link: ig://BnFhAnvAsL9
+photo.1.tags: paws, peek, profile
+species: 1
+studbook.id: 1606
+uncertainty: death exact date
+zoo: 177

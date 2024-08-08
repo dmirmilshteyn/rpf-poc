@@ -1,0 +1,11 @@
+[wild]
+_id: wild.4
+commitdate: 2019/1/1
+en.address: unknown
+en.location: China
+en.name: Living Wild Animal
+flag: China
+ja.address: unknown
+ja.location: 漢
+ja.name: 生きている野生動物
+language.order: en

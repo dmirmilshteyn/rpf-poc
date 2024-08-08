@@ -1,0 +1,30 @@
+[panda]
+_id: 937
+birthday: unknown
+birthplace: unknown
+children: unknown
+commitdate: 2019/7/15
+en.name: Pang-Pang
+en.nicknames: none
+en.othernames: Pangpang, Pang Pang
+gender: f
+ja.name: パンパン
+ja.nicknames: none
+ja.othernames: none
+language.order: zh, en, ja
+litter: unknown
+photo.1: cwdc://WkKNuiGADQA.jpg
+photo.1.author: c_yulu_x
+photo.1.commitdate: 2019/7/15
+photo.1.link: https://www.instagram.com/p/BuGTGuzFr63
+photo.1.tags: portrait, profile, smile, tongue
+photo.2: ig://BmXm_mMlS4X/m
+photo.2.author: c_yulu_x
+photo.2.commitdate: 2019/7/15
+photo.2.link: https://www.instagram.com/c_yulu_x/
+photo.2.tags: laying down, paws, sleeping, tail
+species: 2
+zh.name: 胖胖
+zh.nicknames: none
+zh.othernames: none
+zoo: 39

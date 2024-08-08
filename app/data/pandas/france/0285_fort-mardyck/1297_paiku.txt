@@ -1,0 +1,18 @@
+[panda]
+_id: 1297
+birthday: unknown
+birthplace: unknown
+children: 1431, 1432
+commitdate: 2021/7/1
+en.name: Païku
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: パイク
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+location.1: 258, 2021/5/5
+location.2: 285, unknown
+species: unknown
+zoo: 285

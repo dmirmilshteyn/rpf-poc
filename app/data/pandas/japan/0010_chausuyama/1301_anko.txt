@@ -1,0 +1,402 @@
+[panda]
+_id: 1301
+birthday: 2021/7/1
+birthplace: 10
+children: none
+commitdate: 2021/7/18
+en.name: Anko
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: アンコ
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 1300
+photo.1: ig://CS_XmG7rU-G/m
+photo.1.author: chausuyamazoo
+photo.1.commitdate: 2021/10/9
+photo.1.link: https://www.instagram.com/chausuyamazoo/
+photo.1.tags: baby, mofumofu, scale
+photo.2: ig://CU_M-n7BZ2k/m
+photo.2.author: firefoxpanda88
+photo.2.commitdate: 2021/10/17
+photo.2.link: https://www.instagram.com/firefoxpanda88/
+photo.2.tags: baby, mofumofu, portrait, surprise, whiskers
+photo.3: ig://CVNPc8_BKzf/m
+photo.3.author: daniele.tokyo
+photo.3.commitdate: 2021/10/31
+photo.3.link: https://www.instagram.com/daniele.tokyo/
+photo.3.tags: baby, close-up, mofumofu, nose, portrait
+photo.4: ig://CVSZHOVBGMo/m
+photo.4.author: daniele.tokyo
+photo.4.commitdate: 2021/10/31
+photo.4.link: https://www.instagram.com/daniele.tokyo/
+photo.4.tags: baby, keeper, mofumofu, tail
+photo.5: ig://CVcsOdOBEKJ/m
+photo.5.author: daniele.tokyo
+photo.5.commitdate: 2021/10/27
+photo.5.link: https://www.instagram.com/daniele.tokyo/
+photo.5.tags: baby, mofumofu, tail
+photo.6: ig://CVkam9phWkG/m
+photo.6.author: daniele.tokyo
+photo.6.commitdate: 2021/11/20
+photo.6.link: https://www.instagram.com/daniele.tokyo/
+photo.6.tags: baby, mofumofu, portrait
+photo.7: ig://CWEqHZbPv16/m
+photo.7.author: otenba_redpanda
+photo.7.commitdate: 2021/11/11
+photo.7.link: https://www.instagram.com/otenba_redpanda/
+photo.7.tags: baby, mofumofu, portrait
+photo.8: ig://CWZCi-eB2Ot/m
+photo.8.author: otenba_redpanda
+photo.8.commitdate: 2021/11/21
+photo.8.link: https://www.instagram.com/otenba_redpanda/
+photo.8.tags: baby, mofumofu, portrait, whiskers
+photo.9: ig://CWdQ4EtBVaP/m
+photo.9.author: ifumoto88
+photo.9.commitdate: 2021/11/21
+photo.9.link: https://www.instagram.com/ifumoto88/
+photo.9.tags: baby, bamboo, portrait, surprise, tail
+photo.10: ig://CWflhE_lvUe/m
+photo.10.author: otenba_redpanda
+photo.10.commitdate: 2021/11/21
+photo.10.link: https://www.instagram.com/otenba_redpanda/
+photo.10.tags: baby, mofumofu, portrait, tail
+photo.11: ig://CWzS221BYdM/m
+photo.11.author: alto0908
+photo.11.commitdate: 2022/1/9
+photo.11.link: https://www.instagram.com/alto0908/
+photo.11.tags: baby, mofumofu, portrait, snow
+photo.12: ig://CW0SwsfBv3Y/m
+photo.12.author: redpan22
+photo.12.commitdate: 2022/1/9
+photo.12.link: https://www.instagram.com/redpan22/
+photo.12.tags: baby, mofumofu, snow
+photo.13: ig://CW9XrD4hsZv/m
+photo.13.author: nakacchi_desu
+photo.13.commitdate: 2022/1/15
+photo.13.link: https://www.instagram.com/nakacchi_desu/
+photo.13.tags: baby, close-up, window
+photo.14: ig://CW-A3W-hdcJ/m
+photo.14.author: hamiiiii831_
+photo.14.commitdate: 2022/1/10
+photo.14.link: https://www.instagram.com/hamiiiii831_/
+photo.14.tags: baby, mofumofu, paws, standing
+photo.15: ig://CXBIsTKhoMs/m
+photo.15.author: alto0908
+photo.15.commitdate: 2022/1/15
+photo.15.link: https://www.instagram.com/alto0908/
+photo.15.tags: baby, mofumofu, portrait, sample
+photo.16: ig://CXKKGf1BTRP/m
+photo.16.author: otenba_redpanda
+photo.16.commitdate: 2021/12/30
+photo.16.link: https://www.instagram.com/otenba_redpanda/
+photo.16.tags: baby, mofumofu, portrait, whiskers
+photo.17: cwdc://X2UfxesADQA.jpg
+photo.17.author: ck.chie
+photo.17.commitdate: 2021/12/29
+photo.17.link: https://www.instagram.com/p/CXLcINGBbVR
+photo.17.tags: baby, portrait, sample, snow, tail
+photo.18: ig://CXMrvl4DLQO/m
+photo.18.author: otenba_redpanda
+photo.18.commitdate: 2021/12/29
+photo.18.link: https://www.instagram.com/otenba_redpanda/
+photo.18.tags: baby, bamboo, paws, portrait, sample, standing, tail
+photo.19: ig://CXj6ZFev3zA/m
+photo.19.author: otenba_redpanda
+photo.19.commitdate: 2022/1/15
+photo.19.link: https://www.instagram.com/otenba_redpanda/
+photo.19.tags: baby, mofumofu, paws, portrait, standing
+photo.20: ig://CXlajN9PD9C/m
+photo.20.author: alto0908
+photo.20.commitdate: 2021/12/19
+photo.20.link: https://www.instagram.com/alto0908/
+photo.20.tags: baby, laying down, mofumofu, portrait, sample
+photo.21: ig://CXro9CkBX2B/m
+photo.21.author: otenba_redpanda
+photo.21.commitdate: 2022/1/4
+photo.21.link: https://www.instagram.com/otenba_redpanda/
+photo.21.tags: baby, close-up, mofumofu, portrait, sample
+photo.22: ig://CX08_SDPV8Y/m
+photo.22.author: alto0908
+photo.22.commitdate: 2022/1/6
+photo.22.link: https://www.instagram.com/alto0908/
+photo.22.tags: baby, bamboo, mofumofu, portrait, smile, tail, tongue
+photo.23: ig://CX3hdhaLV5L/m
+photo.23.author: mini_cochi
+photo.23.commitdate: 2022/1/15
+photo.23.link: https://www.instagram.com/mini_cochi/
+photo.23.tags: close-up, mofumofu, portrait, sample, snow
+photo.24: ig://CX4fjJGhEBc/m
+photo.24.author: redpanda_nippon_takashi
+photo.24.commitdate: 2022/1/15
+photo.24.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.24.tags: baby, bite, mofumofu, portrait, tail
+photo.25: ig://CX9o7I8Bzw0/m
+photo.25.author: alto0908
+photo.25.commitdate: 2022/1/15
+photo.25.link: https://www.instagram.com/alto0908/
+photo.25.tags: baby, close-up, mofumofu, peek, portrait, window
+photo.26: ig://CYDP6KnPWrF/m
+photo.26.author: na.mo.pan
+photo.26.commitdate: 2022/1/15
+photo.26.link: https://www.instagram.com/na.mo.pan/
+photo.26.tags: baby, laying down, paws, playing, portrait, upside-down
+photo.27: ig://CYF1VK-FgGH/m
+photo.27.author: otenba_redpanda
+photo.27.commitdate: 2022/1/6
+photo.27.link: https://www.instagram.com/otenba_redpanda/
+photo.27.tags: baby, mofumofu, peek, portrait
+photo.28: ig://CYSK8FFPBhS/m
+photo.28.author: otenba_redpanda
+photo.28.commitdate: 2022/1/15
+photo.28.link: https://www.instagram.com/otenba_redpanda/
+photo.28.tags: laying down, mofumofu, sample
+photo.29: ig://alto0908/CYZ3Twqh0yV/m
+photo.29.author: alto0908
+photo.29.commitdate: 2022/2/6
+photo.29.link: https://www.instagram.com/alto0908/
+photo.29.tags: mofumofu, peek, portrait
+photo.30: ig://CYZ5NY5hiSM/m
+photo.30.author: craig_craig_craig
+photo.30.commitdate: 2022/2/21
+photo.30.link: https://www.instagram.com/craig_craig_craig/
+photo.30.tags: baby, mofumofu, paws, sample
+photo.31: ig://CYbRRQtP5wt/m
+photo.31.author: jas_forever_love
+photo.31.commitdate: 2022/2/6
+photo.31.link: https://www.instagram.com/jas_forever_love/
+photo.31.tags: bamboo, bite, mofumofu, portrait, sample
+photo.32: ig://CYkiWMVJsEw/m
+photo.32.author: shigeko0531
+photo.32.commitdate: 2022/1/23
+photo.32.link: https://www.instagram.com/shigeko0531/
+photo.32.tags: bamboo, peek
+photo.33: ig://CYqSDJfLHy1/m
+photo.33.author: shigeko0531
+photo.33.commitdate: 2022/1/23
+photo.33.link: https://www.instagram.com/shigeko0531/
+photo.33.tags: close-up, peek, techitechi
+photo.34: ig://CZBkromrlBk/m
+photo.34.author: shigeko0531
+photo.34.commitdate: 2023/8/21
+photo.34.link: https://www.instagram.com/shigeko0531/
+photo.34.tags: bite, panda bowl
+photo.35: ig://CZJ0wlKL88t/m
+photo.35.author: shigeko0531
+photo.35.commitdate: 2022/4/5
+photo.35.link: https://www.instagram.com/shigeko0531/
+photo.35.tags: laying down, peek
+photo.36: cwdc://X6bXzXnADQA.jpg
+photo.36.author: otenba_redpanda
+photo.36.commitdate: 2022/2/11
+photo.36.link: https://www.instagram.com/p/CZO4JJjsJvZ
+photo.36.tags: close-up, mofumofu, portrait, profile, sample, whiskers
+photo.37: ig://CZWswCdvGyO/m
+photo.37.author: redpan22
+photo.37.commitdate: 2022/4/5
+photo.37.link: https://www.instagram.com/redpan22/
+photo.37.tags: laying down, peek, sample
+photo.38: ig://CZeBfv6LKth/m
+photo.38.author: otenba_redpanda
+photo.38.commitdate: 2022/2/20
+photo.38.link: https://www.instagram.com/otenba_redpanda/
+photo.38.tags: mofumofu, laying down, peek, portrait, sample
+photo.39: ig://CZt_49llBsL/m
+photo.39.author: mini_cochi
+photo.39.commitdate: 2022/4/4
+photo.39.link: https://www.instagram.com/mini_cochi/
+photo.39.tags: baby, mofumofu, paws, portrait, sample, snow
+photo.40: ig://CZ8YqWsLT4b/m
+photo.40.author: otenba_redpanda
+photo.40.commitdate: 2022/3/9
+photo.40.link: https://www.instagram.com/otenba_redpanda/
+photo.40.tags: mofumofu, paws, portrait, sample, techitechi
+photo.41: ig://CaKJ2QGvSdx/m
+photo.41.author: otenba_redpanda
+photo.41.commitdate: 2022/3/11
+photo.41.link: https://www.instagram.com/otenba_redpanda/
+photo.41.tags: grooming, mofumofu, paws, portrait, sample
+photo.42: ig://CbLaul8hoFo/m
+photo.42.author: hamamatsu.chiita
+photo.42.commitdate: 2022/4/8
+photo.42.link: https://www.instagram.com/hamamatsu.chiita/
+photo.42.tags: close-up, mofumofu, portrait, smile, tongue
+photo.43: ig://Cbm37s6pIEJ/m
+photo.43.author: redpan22
+photo.43.commitdate: 2022/4/25
+photo.43.link: https://www.instagram.com/redpan22/
+photo.43.tags: bamboo, paws, peek
+photo.44: ig://Cb-7JBHBifd/m
+photo.44.author: hamamatsu.chiita
+photo.44.commitdate: 2022/5/30
+photo.44.link: https://www.instagram.com/hamamatsu.chiita/
+photo.44.tags: close-up, mofumofu, portrait, whiskers
+photo.45: ig://CdewT5VrzM5/m
+photo.45.author: shigeko0531
+photo.45.commitdate: 2022/6/2
+photo.45.link: https://www.instagram.com/shigeko0531/
+photo.45.tags: close-up, laying down, mofumofu, sample, whiskers
+photo.46: ig://CduCUnpv-OC/m
+photo.46.author: fetorus_mami
+photo.46.commitdate: 2022/6/6
+photo.46.link: https://www.instagram.com/fetorus_mami/
+photo.46.tags: close-up, mofumofu, peek, sample, techitechi
+photo.47: ig://Cdw6i0lvjgG/m
+photo.47.author: fetorus_mami
+photo.47.commitdate: 2022/8/24
+photo.47.link: https://www.instagram.com/fetorus_mami/
+photo.47.tags: mofumofu, portrait, sample, tongue
+photo.48: ig://CeI0atsPNYh/m
+photo.48.author: alto0908
+photo.48.commitdate: 2022/6/29
+photo.48.link: https://www.instagram.com/alto0908/
+photo.48.tags: laying down, mofumofu, portrait, upside-down
+photo.49: ig://CeTl6Qtr3RN/m
+photo.49.author: mini_cochi
+photo.49.commitdate: 2023/3/26
+photo.49.link: https://www.instagram.com/mini_cochi/
+photo.49.tags: air tasting, mofumofu, portrait, sample, tongue, whiskers
+photo.50: ig://CfdCtM4rnaV/m
+photo.50.author: otenba_redpanda
+photo.50.commitdate: 2022/7/22
+photo.50.link: https://www.instagram.com/otenba_redpanda/
+photo.50.tags: bridge, mofumofu, peek, portrait, sample, techitechi
+photo.51: ig://CfdQsPyPSIn/m
+photo.51.author: alto0908
+photo.51.commitdate: 2022/7/22
+photo.51.link: https://www.instagram.com/alto0908/
+photo.51.tags: baby, bamboo, mofumofu, portrait, sample, smile
+photo.52: ig://CgQDtsyrSIi/m
+photo.52.author: otenba_redpanda
+photo.52.commitdate: 2022/7/25
+photo.52.link: https://www.instagram.com/otenba_redpanda/
+photo.52.tags: mofumofu, portrait, sample
+photo.53: ig://ChqJUPZvApH/m
+photo.53.author: shigeko0531
+photo.53.commitdate: 2022/8/28
+photo.53.link: https://www.instagram.com/shigeko0531/
+photo.53.tags: laying down, peek, sample
+photo.54: ig://Ch2LgijhRmH/m
+photo.54.author: minatomirai215
+photo.54.commitdate: 2022/9/4
+photo.54.link: https://www.instagram.com/minatomirai215/
+photo.54.tags: mofumofu, portrait, sample, whiskers
+photo.55: ig://Ch5pRdgunDd/m
+photo.55.author: otenba_redpanda
+photo.55.commitdate: 2022/9/8
+photo.55.link: https://www.instagram.com/otenba_redpanda/
+photo.55.tags: laying down, mofumofu, portrait, sample, whiskers
+photo.56: ig://CiQ2buYB331/m
+photo.56.author: alto0908
+photo.56.commitdate: 2022/9/11
+photo.56.link: https://www.instagram.com/alto0908/
+photo.56.tags: baby, mofumofu, portrait, sample, snow
+photo.57: ig://CjKuKxput_F/m
+photo.57.author: shigeko0531
+photo.57.commitdate: 2022/10/13
+photo.57.link: https://www.instagram.com/shigeko0531/
+photo.57.tags: dish, mofumofu, paws, sample
+photo.58: ig://ClBsqoRPUW5/m
+photo.58.author: _rifa_p
+photo.58.commitdate: 2023/1/27
+photo.58.link: https://www.instagram.com/_rifa_p/
+photo.58.tags: home, peek, tree
+photo.59: ig://ClyAI11uyQ4/m
+photo.59.author: chankunvv
+photo.59.commitdate: 2023/2/4
+photo.59.link: https://www.instagram.com/chankunvv/
+photo.59.tags: peek, portrait
+photo.60: ig://Cl_QB-kLtP5/m
+photo.60.author: shigeko0531
+photo.60.commitdate: 2023/3/17
+photo.60.link: https://www.instagram.com/shigeko0531/
+photo.60.tags: mofumofu, peek, sample, whiskers
+photo.61: ig://CmWBP4nPBqK/m
+photo.61.author: shigeko0531
+photo.61.commitdate: 2023/1/14
+photo.61.link: https://www.instagram.com/shigeko0531/
+photo.61.tags: dish, snow
+photo.62: ig://Cmr-ItdhZSs/m
+photo.62.author: shigeko0531
+photo.62.commitdate: 2023/3/9
+photo.62.link: https://www.instagram.com/shigeko0531/
+photo.62.tags: peek, portrait, sample, snow
+photo.63: ig://Cnk5Hl2BPp6/m
+photo.63.author: shigeko0531
+photo.63.commitdate: 2023/3/6
+photo.63.link: https://www.instagram.com/shigeko0531/
+photo.63.tags: bamboo, paws, sample, tail, tongue
+photo.64: ig://CntrVLpv_Ns/m
+photo.64.author: shigeko0531
+photo.64.commitdate: 2023/3/9
+photo.64.link: https://www.instagram.com/shigeko0531/
+photo.64.tags: peek, snow
+photo.65: ig://CpaENP3P0F4/m
+photo.65.author: shigeko0531
+photo.65.commitdate: 2023/11/19
+photo.65.link: https://www.instagram.com/shigeko0531/
+photo.65.tags: close-up, peek, portrait, sample, tree
+photo.66: ig://Cpb3p4mPk_i/m
+photo.66.author: shigeko0531
+photo.66.commitdate: 2023/11/19
+photo.66.link: https://www.instagram.com/shigeko0531/
+photo.66.tags: peek, sample, standing, tree
+photo.67: ig://Cphz56FPSXA/m
+photo.67.author: nakacchi_desu
+photo.67.commitdate: 2023/5/23
+photo.67.link: https://www.instagram.com/nakacchi_desu/
+photo.67.tags: bamboo, paws, sample, window
+photo.68: ig://Cpr0mq8vXrL/m
+photo.68.author: shigeko0531
+photo.68.commitdate: 2023/10/18
+photo.68.link: https://www.instagram.com/shigeko0531/
+photo.68.tags: home, sample, tail, tongue, tree
+photo.69: ig://CpsEXUWPm35/m
+photo.69.author: _sah_ax7
+photo.69.commitdate: 2023/10/18
+photo.69.link: https://www.instagram.com/_sah_ax7/
+photo.69.tags: home, sample, tail, tree
+photo.70: ig://CpwA50PvHXZ/m
+photo.70.author: alto0908
+photo.70.commitdate: 2023/10/18
+photo.70.link: https://www.instagram.com/alto0908/
+photo.70.tags: home, paws, sample, tree, whiskers
+photo.71: ig://Cp04SZPyO0-/m
+photo.71.author: alto0908
+photo.71.commitdate: 2023/10/18
+photo.71.link: https://www.instagram.com/alto0908/
+photo.71.tags: portrait, sample, whiskers
+photo.72: ig://Cp6EkYXyIoD/m
+photo.72.author: alto0908
+photo.72.commitdate: 2023/10/18
+photo.72.link: https://www.instagram.com/alto0908/
+photo.72.tags: sample, tongue, tree
+photo.73: ig://CqESh9IhrKn/m
+photo.73.author: alto0908
+photo.73.commitdate: 2023/10/4
+photo.73.link: https://www.instagram.com/alto0908/
+photo.73.tags: peek, sample, tree
+photo.74: ig://CqYHvcovhqr/m
+photo.74.author: redpan22
+photo.74.commitdate: 2023/6/9
+photo.74.link: https://www.instagram.com/redpan22/
+photo.74.tags: mofumofu, peek, sample, tree
+photo.75: ig://Cq-hxghvJ6c/m
+photo.75.author: redpan22
+photo.75.commitdate: 2023/4/22
+photo.75.link: https://www.instagram.com/redpan22/
+photo.75.tags: mofumofu, sample
+photo.76: ig://Cs8gYZ8vfG4/m
+photo.76.author: shigeko0531
+photo.76.commitdate: 2023/6/20
+photo.76.link: https://www.instagram.com/shigeko0531/
+photo.76.tags: close-up, flowers, peek, sample, whiskers
+photo.77: ig://CwWkVoSv6zh/m
+photo.77.author: chausuyamazoo
+photo.77.commitdate: 2023/9/15
+photo.77.link: https://www.instagram.com/chausuyamazoo/
+photo.77.tags: laying down, mofumofu, portrait, sample, tail
+species: 2
+zoo: 10

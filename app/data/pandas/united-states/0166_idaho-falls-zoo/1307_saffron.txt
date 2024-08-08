@@ -1,0 +1,22 @@
+[panda]
+_id: 1307
+birthday: 2021/7/1
+birthplace: 166
+children: none
+commitdate: 2021/8/18
+en.name: Saffron
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: サフラン
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 1306
+photo.1: cwdc://YfiWsrkADQA.jpg
+photo.1.author: worldthathesees
+photo.1.commitdate: 2023/5/3
+photo.1.link: ig://CryXlziLFhn
+photo.1.tags: muzzle, portrait, profile, sample, white face
+species: 1
+zoo: 166

@@ -1,0 +1,37 @@
+[panda]
+_id: 859
+birthday: 2016/6/7
+birthplace: 114
+children: 861, 862
+commitdate: 2019/6/9
+death: 2023/8/12
+en.name: Pabu
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: パブ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 860
+location.1: 114, 2016/6/7
+location.2: 177, 2017/5/10
+photo.1: ig://BYTM8ScjXeg/m
+photo.1.author: wandtvdoug
+photo.1.commitdate: 2020/2/22
+photo.1.link: https://www.instagram.com/wandtvdoug/
+photo.1.tags: portrait
+photo.2: cwdc://WSjmctdADQA.jpg
+photo.2.author: decaturparkdistrict
+photo.2.commitdate: 2019/6/9
+photo.2.link: https://www.instagram.com/p/BlS_d0enoNH
+photo.2.tags: portrait, profile
+photo.3: ig://BoEeVlzAml4/m
+photo.3.author: coleshirk
+photo.3.commitdate: 2019/6/14
+photo.3.link: https://www.instagram.com/coleshirk/
+photo.3.tags: peek
+species: 1
+studbook.id: 1602
+uncertainty: death (possibly months before)
+zoo: 177

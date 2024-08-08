@@ -1,0 +1,39 @@
+[panda]
+_id: 1251
+birthday: 2020/6/16
+birthplace: 108
+children: none
+commitdate: 2021/1/4
+en.name: Joe
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ジョー
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: none
+location.1: 108, 2020/6/16
+location.2: 141, 2020/9/17
+photo.1: cwdc://XUPJNg4ADQA.jpg
+photo.1.author: pippin455
+photo.1.commitdate: 2021/1/30
+photo.1.link: https://www.instagram.com/p/CGIw2OMAQ3d
+photo.1.tags: baby, peek, profile
+photo.2: ig://CG52g6ehYTx/m
+photo.2.author: worldthathesees
+photo.2.commitdate: 2022/4/29
+photo.2.link: https://www.instagram.com/worldthathesees/
+photo.2.tags: close-up, tongue, white face
+photo.3: ig://ClXCjyCu6lC/m
+photo.3.author: worldthathesees
+photo.3.commitdate: 2023/8/15
+photo.3.link: https://www.instagram.com/worldthathesees/
+photo.3.tags: peek, white face
+photo.4: ig://ClXLnunt4-Q/m
+photo.4.author: worldthathesees
+photo.4.commitdate: 2023/8/15
+photo.4.link: https://www.instagram.com/worldthathesees/
+photo.4.tags: peek, whiskers, white face
+species: 1
+zoo: 141

@@ -1,0 +1,24 @@
+[zoo]
+_id: 4
+commitdate: 2018/6/10
+en.address: 1 Chome-2-1 Minamikase, Saiwai-ku, Kawasaki-shi, Kanagawa-ken 212-0055, Japan
+en.location: Kawasaki, Kanagawa Prefecture, Japan
+en.name: Yumemigasaki Zoological Park
+flag: Japan
+ja.address: 〒212-0055 神奈川県川崎市幸区南加瀬１丁目２−1
+ja.location: 川崎市 神奈川県
+ja.name: 川崎市夢見ヶ崎動物公園
+language.order: ja, en
+latitude: 35.5491319
+longitude: 139.6630574
+map: https://goo.gl/maps/kfMhVjS52Gs
+photo.1: ig://BS3UzaaDI0R/m
+photo.1.author: tadayuki.339
+photo.1.commitdate: 2019/4/30
+photo.1.link: https://www.instagram.com/tadayuki.339/
+photo.2: cwdc://XA3cWH2ADQA.jpg
+photo.2.author: kipekaila
+photo.2.commitdate: 2020/2/18
+photo.2.link: https://www.instagram.com/p/B8c6ahrFs2a
+photo.2.tags: profile
+website: http://www.city.kawasaki.jp/saiwai/page/0000045037.html

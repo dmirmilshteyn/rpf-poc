@@ -1,0 +1,20 @@
+[zoo]
+_id: 45
+commitdate: 2018/7/1
+en.address: 1 Chome-43 Yagiyamahoncho, Taihaku Ward, Sendai, Miyagi Prefecture 982-0801, Japan
+en.location: Taihaku Ward, Sendai, Miyagi Prefecture, Japan
+en.name: Selcohome Zoo Paradise Yagiyama
+flag: Japan
+ja.address: 〒982-0801 宮城県仙台市太白区八木山本町１丁目４３
+ja.location: 太白区 仙台市
+ja.name: セルコホーム ズーパラダイス八木山
+language.order: ja, en
+latitude: 38.245601
+longitude: 140.8446113
+map: https://goo.gl/maps/S4dSPcsEcH62
+photo.1: cwdc://V7ZyAq2ADQA.jpg
+photo.1.author: s.okano521
+photo.1.commitdate: 2024/2/9
+photo.1.link: https://www.instagram.com/p/BZuFPzLDTiL
+photo.1.tags: profile
+website: http://www.city.sendai.jp/zoo/index.html

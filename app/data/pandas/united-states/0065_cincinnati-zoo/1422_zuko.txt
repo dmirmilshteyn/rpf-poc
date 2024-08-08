@@ -1,0 +1,36 @@
+[panda]
+_id: 1422
+birthday: 2023/5/26
+birthplace: 99
+children: none
+commitdate: 2023/8/15
+en.name: Zuko
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ズコ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 1421
+location.1: 99, 2023/5/26
+location.2: 65, 2024/4/17
+photo.1: ig://CuhZqJlgeW3/m
+photo.1.author: rossifari
+photo.1.commitdate: 2023/8/15
+photo.1.link: https://www.instagram.com/rossifari/
+photo.1.tags: baby, close-up, keeper
+photo.2: ig://Cu4oewnuTCD/m
+photo.2.author: greensborosciencecenter
+photo.2.commitdate: 2023/8/15
+photo.2.link: https://www.instagram.com/greensborosciencecenter/
+photo.2.tags: baby, close-up, mofumofu, toys
+photo.3: ig://CwfnVO1AA7f/m
+photo.3.author: rossifari
+photo.3.commitdate: 2023/9/15
+photo.3.link: https://www.instagram.com/rossifari/
+photo.3.tags: baby, close-up, mofumofu
+species: 2
+studbook.id: unknown
+uncertainty: location.2 exact day
+zoo: 65

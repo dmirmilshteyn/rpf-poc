@@ -1,0 +1,16 @@
+[panda]
+_id: 1261
+birthday: unknown
+birthplace: 275
+children: none
+commitdate: 2021/4/7
+en.name: Ruby
+en.nicknames: none
+en.othernames: none
+gender: unknown
+ja.name: ルビー
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+species: 1
+zoo: 275

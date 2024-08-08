@@ -1,0 +1,22 @@
+[panda]
+_id: 997
+birthday: 2019/6/18
+birthplace: 137
+children: none
+commitdate: 2019/10/17
+en.name: Kalaiya
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: カライヤ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 996
+photo.1: cwdc://W3-MG31ADQA.jpg
+photo.1.author: wumpwoast
+photo.1.commitdate: 2019/10/24
+photo.1.link: ig://B4ASS5qhUwO
+photo.1.tags: baby, bamboo, portrait, profile
+species: 1
+zoo: 137

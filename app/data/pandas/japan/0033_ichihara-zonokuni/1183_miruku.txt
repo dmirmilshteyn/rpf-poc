@@ -1,0 +1,18 @@
+[panda]
+_id: 1183
+birthday: 2009/7/1
+birthplace: 33
+children: none
+commitdate: 2020/6/19
+death: 2010/4/13
+en.name: Miruku
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ミルク
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 464
+species: 2
+zoo: 33

@@ -1,0 +1,230 @@
+[panda]
+_id: 153
+birthday: 2013/6/11
+birthplace: 9
+children: none
+commitdate: 2018/6/29
+en.name: Café
+en.nicknames: none
+en.othernames: Cafe
+gender: m
+ja.name: カフェ
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 347
+location.1: 9, 2013/6/11
+location.2: 23, 2014/4/17
+location.3: 30, 2019/11/19
+photo.1: ig://BRDTEMkl1Hz/m
+photo.1.author: rdpnzoo
+photo.1.commitdate: 2021/8/6
+photo.1.link: https://www.instagram.com/rdpnzoo/
+photo.1.tags: bite, smile
+photo.2: ig://BYF8BvGliT7/m
+photo.2.author: hanamaru_redpanda
+photo.2.commitdate: 2020/3/11
+photo.2.link: https://www.instagram.com/hanamaru_redpanda/
+photo.2.tags: itchy, portrait, smile, tail, tongue
+photo.3: ig://BYUzkZVHcY0/m
+photo.3.author: fuji_safari
+photo.3.commitdate: 2020/1/18
+photo.3.link: https://www.instagram.com/fuji_safari/
+photo.3.tags: bear worm, laying down, portrait, smile, tongue
+photo.4: ig://BY0Pg5Zln7y/m
+photo.4.author: hanamaru_redpanda
+photo.4.commitdate: 2018/12/23
+photo.4.link: https://www.instagram.com/hanamaru_redpanda/
+photo.4.tags: bamboo
+photo.5: ig://BaC74z1hMru/m
+photo.5.author: miis_98
+photo.5.commitdate: 2020/4/1
+photo.5.link: https://www.instagram.com/miis_98/
+photo.5.tags: home, portrait, tail
+photo.6: ig://BaYkWKMHcwy/m
+photo.6.author: fuji_safari
+photo.6.commitdate: 2020/1/18
+photo.6.link: https://www.instagram.com/fuji_safari/
+photo.6.tags: portrait, tail
+photo.7: cwdc://WAKdV8cADQA.jpg
+photo.7.author: fuji_safari
+photo.7.commitdate: 2018/10/14
+photo.7.link: https://www.instagram.com/p/BcGa6b-HCOb
+photo.7.tags: bamboo, portrait, profile, sample, tongue, whiskers
+photo.8: ig://BfCg-wMhGCl/m
+photo.8.author: miis_98
+photo.8.commitdate: 2020/5/1
+photo.8.link: https://www.instagram.com/miis_98/
+photo.8.tags: paws, portrait, whiskers
+photo.9: ig://Bf64yEQBAZf/m
+photo.9.author: _rifa_p
+photo.9.commitdate: 2018/8/12
+photo.9.link: https://www.instagram.com/_rifa_p/
+photo.10: ig://BgBIdCplgLV/m
+photo.10.author: hanamaru_redpanda
+photo.10.commitdate: 2020/3/12
+photo.10.link: https://www.instagram.com/hanamaru_redpanda/
+photo.10.tags: portrait, whiskers
+photo.11: ig://BhQnCgHlXae/m
+photo.11.author: rie_panda55
+photo.11.commitdate: 2018/7/22
+photo.11.link: https://www.instagram.com/rie_panda55/
+photo.11.tags: portrait
+photo.12: ig://Bj4PGG4lpgH/m
+photo.12.author: _rifa_p
+photo.12.commitdate: 2018/7/22
+photo.12.link: https://www.instagram.com/_rifa_p/
+photo.12.tags: apple time
+photo.13: ig://Bmc9bKUF4lk/m
+photo.13.author: fuji_safari
+photo.13.commitdate: 2020/1/18
+photo.13.link: https://www.instagram.com/fuji_safari/
+photo.13.tags: paws, portrait, tail, tree
+photo.14: ig://BoL1rDolMaD/m
+photo.14.author: fuji_safari
+photo.14.commitdate: 2020/1/18
+photo.14.link: https://www.instagram.com/fuji_safari/
+photo.14.tags: bamboo, portrait, smile
+photo.15: ig://BsCBUPBl0gU/m
+photo.15.author: kipekaila
+photo.15.commitdate: 2018/12/30
+photo.15.link: https://www.instagram.com/kipekaila/
+photo.15.tags: bamboo, smile
+photo.16: ig://BuZ70bsFQBP/m
+photo.16.author: fuji_safari
+photo.16.commitdate: 2020/1/18
+photo.16.link: https://www.instagram.com/fuji_safari/
+photo.16.tags: paws, portrait
+photo.17: ig://B2Wb95CBg5K/m
+photo.17.author: kisshan324
+photo.17.commitdate: 2019/9/13
+photo.17.link: https://www.instagram.com/kisshan324/
+photo.17.tags: portrait, smile, tree
+photo.18: ig://B6XBaG8ha4S/m
+photo.18.author: kiarino51
+photo.18.commitdate: 2022/12/15
+photo.18.link: https://www.instagram.com/kiarino50/
+photo.18.tags: close-up, mofumofu, portrait, sample, whiskers
+photo.19: ig://B6sxxU-B3HH/m
+photo.19.author: re_ichimaru
+photo.19.commitdate: 2019/12/31
+photo.19.link: https://www.instagram.com/re_ichimaru/
+photo.19.tags: bamboo, portrait
+photo.20: ig://B76LqnEhudg/m
+photo.20.author: kisshan324
+photo.20.commitdate: 2020/2/3
+photo.20.link: https://www.instagram.com/kisshan324/
+photo.20.tags: portrait, smile, tail, tongue, tree
+photo.21: ig://CG_svCohFkq/m
+photo.21.author: miis_98
+photo.21.commitdate: 2020/11/6
+photo.21.link: https://www.instagram.com/miis_98/
+photo.21.tags: paws, portrait, smile
+photo.22: ig://CHNCc1DB2_R/m
+photo.22.author: miis_98
+photo.22.commitdate: 2020/11/6
+photo.22.link: https://www.instagram.com/miis_98/
+photo.22.tags: bamboo, bite, lips, paws, portrait, tree
+photo.23: ig://CHRFmOZBFuY/m
+photo.23.author: yossi929
+photo.23.commitdate: 2020/11/15
+photo.23.link: https://www.instagram.com/yossi929/
+photo.23.tags: paws, portrait, smile, tail
+photo.24: ig://CWS1JOyhxpa/m
+photo.24.author: phoenixzoo1971
+photo.24.commitdate: 2021/11/21
+photo.24.link: https://www.instagram.com/phoenixzoo1971/
+photo.24.tags: close-up, paws, tail, tree, whiskers
+photo.25: ig://CdaOO4CrOZX/m
+photo.25.author: phoenixzoo1971
+photo.25.commitdate: 2022/6/2
+photo.25.link: https://www.instagram.com/phoenixzoo1971/
+photo.25.tags: bridge, close-up, paws, portrait, sample, whiskers
+photo.26: ig://Cd7_8--LOu6/m
+photo.26.author: daniele.tokyo
+photo.26.commitdate: 2022/6/2
+photo.26.link: https://www.instagram.com/daniele.tokyo/
+photo.26.tags: bamboo, lips, paws, sample, smile, whiskers
+photo.27: ig://CeqW7eIB7A8/m
+photo.27.author: kiarino51
+photo.27.commitdate: 2022/12/3
+photo.27.link: https://www.instagram.com/kiarino51/
+photo.27.tags: lips, portrait, sample, smile, whiskers
+photo.28: ig://CkLIOZyrFe8/m
+photo.28.author: kiarino51
+photo.28.commitdate: 2023/2/4
+photo.28.link: https://www.instagram.com/kiarino51/
+photo.28.tags: lips, portrait, sample, smile, whiskers
+photo.29: ig://CloJLOirFbi/m
+photo.29.author: kiarino51
+photo.29.commitdate: 2023/2/4
+photo.29.link: https://www.instagram.com/kiarino51/
+photo.29.tags: bamboo, bite, portrait, sample, whiskers
+photo.30: ig://Cl3rfrNrgW7/m
+photo.30.author: sasapan34
+photo.30.commitdate: 2022/12/15
+photo.30.link: https://www.instagram.com/sasapan34/
+photo.30.tags: smile, tail, whiskers
+photo.31: ig://Cl_QTjGLnjM/m
+photo.31.author: kiarino51
+photo.31.commitdate: 2022/12/11
+photo.31.link: https://www.instagram.com/kiarino51/
+photo.31.tags: climb, paws, portrait, sample, smile, tail, tree, upside-down, whiskers
+photo.32: ig://CnLkm05PaJA/m
+photo.32.author: sakikukeco
+photo.32.commitdate: 2023/3/23
+photo.32.link: https://www.instagram.com/sakikukeco/
+photo.32.tags: portrait, sample, whiskers
+photo.33: ig://Cno1paMPpvp/m
+photo.33.author: kiarino51
+photo.33.commitdate: 2023/3/6
+photo.33.link: https://www.instagram.com/kiarino51/
+photo.33.tags: portrait, sample, whiskers
+photo.34: ig://CouoeGDvGSz/m
+photo.34.author: fetorus_mami
+photo.34.commitdate: 2023/4/9
+photo.34.link: https://www.instagram.com/fetorus_mami/
+photo.34.tags: bamboo, paws, sample, whiskers
+photo.35: ig://Co2QjgDv7YT/m
+photo.35.author: nakacchi_desu
+photo.35.commitdate: 2023/8/27
+photo.35.link: https://www.instagram.com/nakacchi_desu/
+photo.35.tags: peek, tongue
+photo.36: ig://Co5xn_MB723/m
+photo.36.author: fetorus_mami
+photo.36.commitdate: 2023/2/26
+photo.36.link: https://www.instagram.com/fetorus_mami/
+photo.36.tags: apple time, keeper, paws, sample, tail
+photo.37: ig://Cpw5LmzPJ_z/m
+photo.37.author: hamiiiii831_
+photo.37.commitdate: 2023/10/18
+photo.37.link: https://www.instagram.com/hamiiiii831_/
+photo.37.tags: paws, sample, standing, tail
+photo.38: ig://Cpw5UCLPi9E/m
+photo.38.author: hamiiiii831_
+photo.38.commitdate: 2023/10/18
+photo.38.link: https://www.instagram.com/hamiiiii831_/
+photo.38.tags: climb, dish, keeper, paws
+photo.39: ig://CrNBzkKvYMu/m
+photo.39.author: fetorus_mami
+photo.39.commitdate: 2023/5/4
+photo.39.link: https://www.instagram.com/fetorus_mami/
+photo.39.tags: apple time, paws, sample, standing
+photo.40: ig://Czz8StjvOZC/m
+photo.40.author: fetorus_mami
+photo.40.commitdate: 2023/12/15
+photo.40.link: https://www.instagram.com/fetorus_mami/
+photo.40.tags: apple time, keeper, paws, sample, standing
+photo.41: cwdc://Y3tQ76OADQA.jpg
+photo.41.author: phoenixzoo1971
+photo.41.commitdate: 2024/3/10
+photo.41.link: https://www.instagram.com/p/C330ta3S_M_
+photo.41.tags: close-up, portrait, sample, whiskers
+species: 2
+studbook.id: 13139
+zoo: 30
+photo.42: cwdc://YnI35hJADQA.jpg
+photo.42.author: phoenixzoo1971
+photo.42.commitdate: 2024/5/4
+photo.42.link: ig://CvloMOUxBHl
+photo.42.tags: laying down, sample, sleeping

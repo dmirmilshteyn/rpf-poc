@@ -1,0 +1,19 @@
+[panda]
+_id: 563
+birthday: 1995/6/30
+birthplace: 3
+children: 223
+commitdate: 2019/3/10
+death: 2003/3/7
+en.name: Min-Min
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ミンミン
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 231
+species: 2
+studbook.id: 9599
+zoo: 3

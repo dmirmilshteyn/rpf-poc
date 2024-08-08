@@ -1,0 +1,31 @@
+[panda]
+_id: 624
+birthday: 2006/6/27
+birthplace: 104
+children: 630, 631, 632, 633, 634, 635, 636
+commitdate: 2019/3/19
+en.name: Celeste
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: セレステ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 623
+location.1: 104, 2006/6/27
+location.2: 146, 2007/5/20
+location.3: 153, 2012/4/13
+photo.1: cwdc://W1l9b4CADQA.jpg
+photo.1.author: worldthathesees
+photo.1.commitdate: 2019/9/26
+photo.1.link: https://www.instagram.com/p/B20K9ZxBTud
+photo.1.tags: portrait, profile, sample, whiskers
+photo.2: ig://BBYF-ejJIpS/m
+photo.2.author: evansvilleliving
+photo.2.commitdate: 2019/11/29
+photo.2.link: https://www.instagram.com/evansvilleliving/
+photo.2.tags: bridge, peek, tail, whiskers
+species: 1
+studbook.id: 0618
+zoo: 153

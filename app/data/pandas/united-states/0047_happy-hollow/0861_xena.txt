@@ -1,0 +1,400 @@
+[panda]
+_id: 861
+birthday: 2018/6/25
+birthplace: 177
+children: none
+commitdate: 2019/6/9
+en.name: Xena
+en.nicknames: Xenapanda
+en.othernames: none
+gender: f
+ja.name: ゼナ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 862
+location.1: 177, 2018/6/25
+location.2: 47, 2019/5/15
+photo.1: cwdc://WtygUlfADQB.jpg
+photo.1.author: hhpzoo
+photo.1.commitdate: 2019/6/20
+photo.1.link: ig://By6cZwfn9Iq
+photo.1.tags: bamboo, portrait, sample, white face
+photo.2: cwdc://Wt9ZBKqADQA.jpg
+photo.2.author: wumpwoast
+photo.2.commitdate: 2019/6/22
+photo.2.link: ig://By_4wDFBDDi
+photo.2.tags: white face
+photo.3: cwdc://WuETQXnADQA.jpg
+photo.3.author: wumpwoast
+photo.3.commitdate: 2019/6/28
+photo.3.link: ig://BzDV3pjhbMF
+photo.3.tags: bamboo, bite, portrait
+photo.4: cwdc://WuHYhcuADQA.jpg
+photo.4.author: wumpwoast
+photo.4.commitdate: 2019/6/28
+photo.4.link: ig://BzE4gMHBSQc
+photo.4.tags: portrait, smile, tongue
+photo.5: cwdc://WuUiPq2ADQA.jpg
+photo.5.author: wumpwoast
+photo.5.commitdate: 2019/6/28
+photo.5.link: ig://BzLdXTLBTHr
+photo.5.tags: bamboo, dish, mofumofu, tail, white face
+photo.6: cwdc://WvOpSycADQA.jpg
+photo.6.author: wumpwoast
+photo.6.commitdate: 2019/7/9
+photo.6.link: ig://Bzog42-BzEx
+photo.6.tags: bamboo, white face
+photo.7: cwdc://WvVFsJrADQA.jpg
+photo.7.author: wumpwoast
+photo.7.commitdate: 2019/7/9
+photo.7.link: ig://BzrvFilhv55
+photo.7.tags: bamboo, door, white face
+photo.8: cwdc://WvpwVacADQA.jpg
+photo.8.author: wumpwoast
+photo.8.commitdate: 2019/11/12
+photo.8.link: ig://Bz2EaK-BbAr
+photo.8.tags: portrait, white face
+photo.9: cwdc://Wv5JahNADQA.jpg
+photo.9.author: wumpwoast
+photo.9.commitdate: 2019/11/12
+photo.9.link: ig://Bz9w8uWhJVA
+photo.9.tags: paws, portrait, smile
+photo.10: cwdc://Ww70KZWADQA.jpg
+photo.10.author: wumpwoast
+photo.10.commitdate: 2019/7/30
+photo.10.link: ig://B0fGUqbBwoz
+photo.10.tags: bamboo, mofumofu, portrait, tail
+photo.11: cwdc://Wydb2ZJADQA.jpg
+photo.11.author: zookeeper_aj
+photo.11.commitdate: 2019/8/20
+photo.11.link: ig://B1P6KqUgDKt
+photo.11.tags: laying down, paws, peek, sample, tree
+photo.12: cwdc://W1WYZgcADQA.jpg
+photo.12.author: alyss_or_rose
+photo.12.commitdate: 2020/5/25
+photo.12.link: ig://B2sYcN-ANTU
+photo.12.tags: lunch time, sample, smile, toys, white face
+photo.13: cwdc://W2o4c8WADQA.jpg
+photo.13.author: zookeeper_aj
+photo.13.commitdate: 2019/10/15
+photo.13.link: ig://hhpzoo/B3Vod77ICkQ
+photo.13.tags: laying down, portrait, tree
+photo.14: cwdc://W4agyn3ADQA.jpg
+photo.14.author: wumpwoast
+photo.14.commitdate: 2019/10/29
+photo.14.link: ig://B4OcoxrhIEv
+photo.14.tags: pumpkin, white face
+photo.15: cwdc://W5BV6uBADQA.jpg
+photo.15.author: wumpwoast
+photo.15.commitdate: 2019/11/7
+photo.15.link: ig://B4h3M0whyxW
+photo.15.tags: peek, portrait, white face
+photo.16: cwdc://W5SxsmEADQA.jpg
+photo.16.author: wumpwoast
+photo.16.commitdate: 2019/11/12
+photo.16.link: ig://B4qlFwyB6i0
+photo.16.tags: bamboo, peek, portrait, white face
+photo.17: cwdc://W5ehucfADQA.jpg
+photo.17.author: wumpwoast
+photo.17.commitdate: 2019/11/17
+photo.17.link: ig://B4wdGr_hWWN
+photo.17.tags: bamboo, paws, smile, standing
+photo.18: cwdc://W6fKTpgADQA.jpg
+photo.18.author: wumpwoast
+photo.18.commitdate: 2019/11/26
+photo.18.link: ig://B5QxZSgBedO
+photo.18.tags: portrait, profile, tree, whiskers, white face
+photo.19: cwdc://W7pLZrwADQA.jpg
+photo.19.author: wumpwoast
+photo.19.commitdate: 2019/12/16
+photo.19.link: ig://B51x8ToB6RP
+photo.19.tags: peek, portrait, white face
+photo.20: cwdc://W_jWouMADQA.jpg
+photo.20.author: wumpwoast
+photo.20.commitdate: 2022/3/13
+photo.20.link: ig://B7y3j02BG0m
+photo.20.tags: close-up, portrait, sample, whiskers, white face
+photo.21: cwdc://W_s65uhADQA.jpg
+photo.21.author: wumpwoast
+photo.21.commitdate: 2022/3/13
+photo.21.link: ig://B73psVAhoeA
+photo.21.tags: bamboo, close-up, portrait, tongue, whiskers
+photo.22: cwdc://XB0VFhVADQA.jpg
+photo.22.author: wumpwoast
+photo.22.commitdate: 2020/2/26
+photo.22.link: ig://B87WyOaheUX
+photo.22.tags: portrait, white face
+photo.23: cwdc://XB5k9KTADQA.jpg
+photo.23.author: wumpwoast
+photo.23.commitdate: 2020/2/26
+photo.23.link: ig://B89-uC5hg64
+photo.23.tags: bamboo, techitechi, white face
+photo.24: cwdc://XCzLRNfADQA.jpg
+photo.24.author: wumpwoast
+photo.24.commitdate: 2020/3/8
+photo.24.link: ig://B9ax4Efh6nY
+photo.24.tags: portrait, white face
+photo.25: cwdc://XDHr-j3ADQA.jpg
+photo.25.author: carsontheredpanda
+photo.25.commitdate: 2020/3/12
+photo.25.link: ig://B9lCOvrhIaH
+photo.25.tags: peek, sample, white face
+photo.26: cwdc://XD1k-FKADQA.jpg
+photo.26.author: wumpwoast
+photo.26.commitdate: 2020/3/26
+photo.26.link: ig://B97-ugVBysH
+photo.26.tags: laying down, portrait, tail
+photo.27: cwdc://XD5fQBwADQA.jpg
+photo.27.author: wumpwoast
+photo.27.commitdate: 2020/3/26
+photo.27.link: ig://B9973eoBoie
+photo.27.tags: portrait, whiskers
+photo.28: cwdc://XD_Io0AADQA.jpg
+photo.28.author: wumpwoast
+photo.28.commitdate: 2020/3/26
+photo.28.link: ig://B-Awj3wBD8D
+photo.28.tags: bamboo, portrait, standing, white face
+photo.29: cwdc://XEGK4xqADQA.jpg
+photo.29.author: wumpwoast
+photo.29.commitdate: 2020/3/26
+photo.29.link: ig://B-ERr2lBanx
+photo.29.tags: flowers, portrait, smile, whiskers
+photo.30: cwdc://XEIFi5yADQA.jpg
+photo.30.author: hhpzoo
+photo.30.commitdate: 2020/3/24
+photo.30.link: ig://B-FPA6pHVTP
+photo.30.tags: laying down, peek, portrait, tree, white face
+photo.31: cwdc://XE4uxKdADQB.jpg
+photo.31.author: alyss_or_rose
+photo.31.commitdate: 2020/5/25
+photo.31.link: ig://B-djoC-jBRy
+photo.31.tags: paws, sample, tree, videolink, white face
+photo.32: cwdc://XGbKPrAADQA.jpg
+photo.32.author: wumpwoast
+photo.32.commitdate: 2020/4/27
+photo.32.link: ig://B_OxXTQHGhq
+photo.32.tags: laying down, tail, toys
+photo.33: cwdc://XHC4iTNADQA.jpg
+photo.33.author: wumpwoast
+photo.33.commitdate: 2020/5/1
+photo.33.link: ig://B_iognWnbKJ
+photo.33.tags: bamboo, bite, portrait, smile, tongue
+photo.34: cwdc://XHeIAPmADQA.jpg
+photo.34.author: wumpwoast
+photo.34.commitdate: 2022/10/13
+photo.34.link: ig://B_wQPljH6ja
+photo.34.tags: bamboo, bite, portrait, toys
+photo.35: cwdc://XHrhGa9ADQA.jpg
+photo.35.author: djjohnbeaver
+photo.35.commitdate: 2020/5/11
+photo.35.link: ig://B_28yrOgRrD
+photo.35.tags: bamboo, paws, sample, smile, tail, tongue, tree, white face
+photo.36: cwdc://XIZtpChADQC.jpg
+photo.36.author: hhpzoo
+photo.36.commitdate: 2020/5/17
+photo.36.link: ig://CAODD_ApJhC
+photo.36.tags: bamboo, mofumofu, paws, tail, tree
+photo.37: cwdc://XKatmPwADQA.jpg
+photo.37.author: wumpwoast
+photo.37.commitdate: 2020/6/10
+photo.37.link: ig://CBOjCloBU9n
+photo.37.tags: laying down, portrait, sleeping, white face
+photo.38: cwdc://XKpmTacADQA.jpg
+photo.38.author: wumpwoast
+photo.38.commitdate: 2020/6/15
+photo.38.link: ig://CBV_ZK-Brk0
+photo.38.tags: laying down, portrait, white face
+photo.39: cwdc://XLsOUzuADQG.jpg
+photo.39.author: hhpzoo
+photo.39.commitdate: 2020/6/27
+photo.39.link: ig://CB3TZ3nAXww
+photo.39.tags: sample, white face
+photo.40: cwdc://XLsm9nYADQD.jpg
+photo.40.author: hhpzoo
+photo.40.commitdate: 2020/6/27
+photo.40.link: ig://CB3fuRcDRnp
+photo.40.tags: dish, paws, portrait, sample, toys, whiskers, white face
+photo.41: cwdc://XLsm9nYADQE.jpg
+photo.41.author: hhpzoo
+photo.41.commitdate: 2024/6/27
+photo.41.link: ig://CB3fuRcDRnp?img_index=2
+photo.41.tags: peek, portrait
+photo.42: cwdc://XLsm9nYADQF.jpg
+photo.42.author: hhpzoo
+photo.42.commitdate: 2024/6/27
+photo.42.link: ig://CB3fuRcDRnr
+photo.42.tags: bamboo, portrait, sample, whiskers
+photo.43: cwdc://XLsxUV1ADQA.jpg
+photo.43.author: wumpwoast
+photo.43.commitdate: 2020/6/27
+photo.43.link: ig://CB3k5oqh15k
+photo.43.tags: bamboo, paws, portrait
+photo.44: cwdc://XMgAtf-ADQH.jpg
+photo.44.author: hhpzoo
+photo.44.commitdate: 2020/7/12
+photo.44.link: ig://CCRMmNvDvlY
+photo.44.tags: laying down, paws, peek, portrait, tree, upside-down, white face
+photo.45: cwdc://XMgAtf-ADQI.jpg
+photo.45.author: hhpzoo
+photo.45.commitdate: 2024/6/27
+photo.45.link: ig://CCRMmNvDvlY?img_index=2
+photo.45.tags: laying down, paws, portrait, sample, tail, tree
+photo.46: cwdc://XPEWhQ_ADQB.jpg
+photo.46.author: djjohnbeaver
+photo.46.commitdate: 2020/8/13
+photo.46.link: ig://CDjXgGPgYlO
+photo.46.tags: close-up, nose, whiskers
+photo.47: cwdc://XQTT704ADQA.jpg
+photo.47.author: djjohnbeaver
+photo.47.commitdate: 2020/8/23
+photo.47.link: ig://hhpzoo/CEK2NYMDmuW
+photo.47.tags: bamboo, sample, videolink, wite face
+photo.48: cwdc://XRUo8aFADQC.jpg
+photo.48.author: djjohnbeaver
+photo.48.commitdate: 2020/12/28
+photo.48.link: ig://CErgtqygMXN
+photo.48.tags: bamboo, paws, portrait, sample, videolink
+photo.49: cwdc://XSh4_rRADQK.jpg
+photo.49.author: hhpzoo
+photo.49.commitdate: 2020/11/6
+photo.49.link: ig://CFSIvTYnZ1k
+photo.49.tags: close-up, smile, techitechi, whiskers, white face
+photo.50: cwdc://XSnbvgFADQL.jpg
+photo.50.author: hhpzoo
+photo.50.commitdate: 2020/9/24
+photo.50.link: ig://CFU6HNyjQgE
+photo.50.tags: peek, portrait, white face
+photo.51: cwdc://XSnbvgFADQM.jpg
+photo.51.author: hhpzoo
+photo.51.commitdate: 2024/6/27
+photo.51.link: ig://CFU6HNyjQgE?img_index=2
+photo.51.tags: close-up, mofumofu, portrait, sample, whiskers, white face
+photo.52: cwdc://XSnyPwlADQA.jpg
+photo.52.author: wumpwoast
+photo.52.commitdate: 2020/9/20
+photo.52.link: ig://CFVFXWChgtM
+photo.52.tags: bamboo, paws, portrait
+photo.53: cwdc://XXoyG5VADQA.jpg
+photo.53.author: wumpwoast
+photo.53.commitdate: 2020/11/28
+photo.53.link: ig://CH1lS6ah2-h
+photo.53.tags: laying down, portrait, white face
+photo.54: cwdc://XX4cFk_ADQB.jpg
+photo.54.author: carsontheredpanda
+photo.54.commitdate: 2020/11/29
+photo.54.link: ig://CH9aSQPh57O
+photo.54.tags: bamboo, portrait, smile
+photo.55: cwdc://XX4cFk_ADQC.jpg
+photo.55.author: carsontheredpanda
+photo.55.commitdate: 2024/6/27
+photo.55.link: ig://CH9aSQPh57O?img_index=2
+photo.55.tags: lunch time, portrait, whiskers
+photo.56: cwdc://XcYzB_KADQA.jpg
+photo.56.author: wumpwoast
+photo.56.commitdate: 2021/2/28
+photo.56.link: ig://CKNlwdVBEGd
+photo.56.tags: laying down, portrait, white face
+photo.57: cwdc://XiEfUVvADQN.jpg
+photo.57.author: hhpzoo
+photo.57.commitdate: 2021/4/2
+photo.57.link: ig://CNDb5ongfAg
+photo.57.tags: bamboo, close-up, paws, sample, whiskers, white face
+photo.58: cwdc://XiKUPSTADQA.jpg
+photo.58.author: wumpwoast
+photo.58.commitdate: 2021/4/2
+photo.58.link: ig://CNGWXG5hId7
+photo.58.tags: laying down, tail, tree
+photo.59: cwdc://XpD6LL-ADQO.jpg
+photo.59.author: hhpzoo
+photo.59.commitdate: 2021/7/3
+photo.59.link: ig://CQjJVDvLxYv
+photo.59.tags: laying down, mofumofu, sample, tail, tree, white face
+photo.60: cwdc://Xq1eL51ADQA.jpg
+photo.60.author: wumpwoast
+photo.60.commitdate: 2021/7/18
+photo.60.link: ig://CRb7Vaqht7i
+photo.60.tags: close-up, peek, portrait, tree
+photo.61: cwdc://X0sxHYCADQA.jpg
+photo.61.author: wumpwoast
+photo.61.commitdate: 2021/11/21
+photo.61.link: ig://CWXkzJxLuz0
+photo.61.tags: bamboo, close-up, paws, white face
+photo.62: cwdc://X2ieBBwADQA.jpg
+photo.62.author: wumpwoast
+photo.62.commitdate: 2021/12/22
+photo.62.link: ig://CXSbP-oLyn0
+photo.62.tags: peek, portrait
+photo.63: cwdc://X7cQGVSADQA.jpg
+photo.63.author: wumpwoast
+photo.63.commitdate: 2023/5/3
+photo.63.link: ig://CZvUSoZF1Gl
+photo.63.tags: peek, portrait, white face
+photo.64: cwdc://X77svX1ADQA.jpg
+photo.64.author: wumpwoast
+photo.64.commitdate: 2022/3/5
+photo.64.link: ig://CZ_CnJqrztr
+photo.64.tags: mofumofu, portrait, whiskers
+photo.65: cwdc://X9XUXJ2ADQA.jpg
+photo.65.author: wumpwoast
+photo.65.commitdate: 2022/3/10
+photo.65.link: ig://Cas2bCrPfHB
+photo.65.tags: close-up, mofumofu, portrait, whiskers, white face
+photo.66: cwdc://YBs4NWDADQA.jpg
+photo.66.author: wumpwoast
+photo.66.commitdate: 2022/6/6
+photo.66.link: ig://Cc3oWIxv3H_
+photo.66.tags: laying down, paws, portrait, whiskers, white face
+photo.67: cwdc://YB929GsADQA.jpg
+photo.67.author: wumpwoast
+photo.67.commitdate: 2022/6/7
+photo.67.link: ig://CdAHuBGL8Eu
+photo.67.tags: bamboo, paws, portrait, sample
+photo.68: cwdc://YEEforgADQA.jpg
+photo.68.author: wumpwoast
+photo.68.commitdate: 2022/6/29
+photo.68.link: ig://CeDcDzgLaJW
+photo.68.tags: peek, portrait
+photo.69: cwdc://YGdjvGIADQA.jpg
+photo.69.author: wumpwoast
+photo.69.commitdate: 2022/7/9
+photo.69.link: ig://CfP-HA0JaoR
+photo.69.tags: bamboo, portrait, whiskers
+photo.70: cwdc://YI2s0CaADQA.jpg
+photo.70.author: wumpwoast
+photo.70.commitdate: 2022/8/5
+photo.70.link: ig://Cgcipe9OT0V
+photo.70.tags: bamboo, bite, laying down, portrait, sample, white face
+photo.71: cwdc://YLlg7YpADQA.jpg
+photo.71.author: wumpwoast
+photo.71.commitdate: 2022/8/28
+photo.71.link: ig://Chz8tKEpX57
+photo.71.tags: laying down, portrait, sample, tongue, tree
+photo.72: cwdc://YMRLl3cADQA.jpg
+photo.72.author: wumpwoast
+photo.72.commitdate: 2022/9/10
+photo.72.link: ig://CiJyCZeP7g-
+photo.72.tags: portrait, toys
+photo.73: cwdc://YcBsbZ5ADQA.jpg
+photo.73.author: wumpwoast
+photo.73.commitdate: 2023/6/18
+photo.73.link: ig://CqCCdKsp-BM
+photo.73.tags: bamboo, close-up, nose, portrait, sample
+photo.74: cwdc://YdIkcwmADQA.jpg
+photo.74.author: wumpwoast
+photo.74.commitdate: 2023/6/9
+photo.74.link: ig://Cqled2DPFvm
+photo.74.tags: laying down, mofumofu, sample, tail
+photo.75: cwdc://YqJxq7rADQA.jpg
+photo.75.author: wumpwoast
+photo.75.commitdate: 2023/9/12
+photo.75.link: ig://CxGFE7lrUjR
+photo.75.tags: bamboo, peek, portrait, white face
+photo.76: cwdc://YuIXk8AADQD.jpg
+photo.76.author: djjohnbeaver
+photo.76.commitdate: 2024/6/27
+photo.76.link: ig://CzFYB7wRZmv
+photo.76.tags: pumpkin, sample, whiskers
+species: 1
+studbook.id: 1821
+zoo: 47

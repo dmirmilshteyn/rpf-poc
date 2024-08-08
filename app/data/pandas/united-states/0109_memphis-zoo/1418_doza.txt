@@ -1,0 +1,22 @@
+[panda]
+_id: 1418
+birthday: 2023/6/13
+birthplace: 109
+children: none
+commitdate: 2023/8/8
+en.name: Doza
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ドーザ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 1419
+photo.1: ig://CwpNlovOJzX/m
+photo.1.author: worldthathesees
+photo.1.commitdate: 2023/9/15
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: baby, portrait, sample
+species: 2
+zoo: 109

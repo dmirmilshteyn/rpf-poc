@@ -1,0 +1,19 @@
+[panda]
+_id: 612
+birthday: 1998/7/4
+birthplace: 29
+children: none
+commitdate: 2019/3/19
+death: 2010/11/20
+en.name: Rai
+en.nicknames: none
+en.othernames: none
+gender: m
+ja.name: ライ
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 471
+species: 2
+studbook.id: 98033
+zoo: 29

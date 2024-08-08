@@ -1,0 +1,29 @@
+[panda]
+_id: 299
+birthday: 2007/7/21
+birthplace: 33
+children: 464 1/2, 1183 1/2, 300, 587, 465, 586
+commitdate: 2018/8/3
+death: 2018/1/1
+en.name: Tomato
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: トマト
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 1182
+photo.1: ig://BVgsl1uD6LM/m
+photo.1.author: s.okano521
+photo.1.commitdate: 2018/11/18
+photo.1.link: https://www.instagram.com/s.okano521/
+photo.1.tags: grooming
+photo.2: cwdc://V4jd0AsADQA.jpg
+photo.2.author: hanamaru_redpanda
+photo.2.commitdate: 2018/12/23
+photo.2.link: https://www.instagram.com/p/BYS7JeGFHDA
+photo.2.tags: laying down, portrait, profile, sample
+species: 2
+studbook.id: 0778
+zoo: 33

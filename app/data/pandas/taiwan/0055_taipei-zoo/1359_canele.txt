@@ -1,0 +1,281 @@
+[panda]
+_id: 1359
+birthday: 2021/7/6
+birthplace: 55
+children: none
+commitdate: 2022/4/20
+death: 2023/6/22
+en.name: Canele
+en.nicknames: none
+en.othernames: Canelé, Kelilu, Lulu
+gender: m
+ja.name: カヌレ
+ja.nicknames: none
+ja.othernames: none
+language.order: zh, en, ja
+litter: none
+photo.1: ig://CYkPzSfBfMs/m
+photo.1.author: yuredpanda
+photo.1.commitdate: 2022/4/20
+photo.1.link: https://www.instagram.com/yuredpanda/
+photo.1.tags: baby, mofumofu, smile, tail
+photo.2: ig://CY_38WpvVMw/m
+photo.2.author: yuredpanda
+photo.2.commitdate: 2022/4/20
+photo.2.link: https://www.instagram.com/yuredpanda/
+photo.2.tags: mofumofu, portrait, tongue
+photo.3: ig://CZdkWm5Pp1Y/m
+photo.3.author: yuredpanda
+photo.3.commitdate: 2022/4/20
+photo.3.link: https://www.instagram.com/yuredpanda/
+photo.3.tags: baby, bite, laying down, playing, portrait
+photo.4: ig://CZfGCmWhb4L/m
+photo.4.author: yuredpanda
+photo.4.commitdate: 2022/4/20
+photo.4.link: https://www.instagram.com/yuredpanda/
+photo.4.tags: paws, surprise, tail
+photo.5: ig://CZhN3pJv1vR/m
+photo.5.author: yuredpanda
+photo.5.commitdate: 2022/4/20
+photo.5.link: https://www.instagram.com/yuredpanda/
+photo.5.tags: peek, portrait, wet
+photo.6: ig://CZoQFKYvhvA/m
+photo.6.author: yuredpanda
+photo.6.commitdate: 2022/4/20
+photo.6.link: https://www.instagram.com/yuredpanda/
+photo.6.tags: baby, bamboo, close-up, mofumofu, portrait
+photo.7: ig://CZtnFh1PkhO/m
+photo.7.author: yuredpanda
+photo.7.commitdate: 2022/4/20
+photo.7.link: https://www.instagram.com/yuredpanda/
+photo.7.tags: baby, mofumofu
+photo.8: ig://CZvYhX1P18K/m
+photo.8.author: yuredpanda
+photo.8.commitdate: 2022/4/20
+photo.8.link: https://www.instagram.com/yuredpanda/
+photo.8.tags: laying down, mofumofu, tongue
+photo.9: ig://CZw--sFPNr4/m
+photo.9.author: yuredpanda
+photo.9.commitdate: 2022/4/20
+photo.9.link: https://www.instagram.com/yuredpanda/
+photo.9.tags: mofumofu, paws, portrait, standing, tail
+photo.10: ig://CZy8cB_v3OV/m
+photo.10.author: yuredpanda
+photo.10.commitdate: 2022/4/20
+photo.10.link: https://www.instagram.com/yuredpanda/
+photo.10.tags: laying down, paws, playing, portrait, smile
+photo.11: ig://CZ0fXsRP6CI/m
+photo.11.author: yuredpanda
+photo.11.commitdate: 2022/4/20
+photo.11.link: https://www.instagram.com/yuredpanda/
+photo.11.tags: close-up, laying down, mofumofu, paws, playing, portrait
+photo.12: ig://CZ56GE0vWRT/m
+photo.12.author: yuredpanda
+photo.12.commitdate: 2022/4/20
+photo.12.link: https://www.instagram.com/yuredpanda/
+photo.12.tags: bamboo, bite, mofumofu, portrait
+photo.13: ig://CZ7HVizBq3n/m
+photo.13.author: yuredpanda
+photo.13.commitdate: 2022/4/20
+photo.13.link: https://www.instagram.com/yuredpanda/
+photo.13.tags: mofumofu, portrait
+photo.14: ig://CZ8UZnTvHn3/m
+photo.14.author: yuredpanda
+photo.14.commitdate: 2022/4/20
+photo.14.link: https://www.instagram.com/yuredpanda/
+photo.14.tags: dish, nose, portrait
+photo.15: ig://CZ9MOqMPa6F/m
+photo.15.author: yuredpanda
+photo.15.commitdate: 2022/4/20
+photo.15.link: https://www.instagram.com/yuredpanda/
+photo.15.tags: bite, mofumofu, paws, portrait
+photo.16: ig://CZ-5BqLvNjV/m
+photo.16.author: yuredpanda
+photo.16.commitdate: 2022/4/20
+photo.16.link: https://www.instagram.com/yuredpanda/
+photo.16.tags: laying down, mofumofu
+photo.17: ig://CaBVWVkvXuu/m
+photo.17.author: yuredpanda
+photo.17.commitdate: 2022/4/20
+photo.17.link: https://www.instagram.com/yuredpanda/
+photo.17.tags: mofumofu, portrait, profile
+photo.18: ig://CaL-56HvqUT/m
+photo.18.author: yuredpanda
+photo.18.commitdate: 2022/4/20
+photo.18.link: https://www.instagram.com/yuredpanda/
+photo.18.tags: bamboo, mofumofu, portrait
+photo.19: ig://CaTE6ybBSKW/m
+photo.19.author: yuredpanda
+photo.19.commitdate: 2022/4/20
+photo.19.link: https://www.instagram.com/yuredpanda/
+photo.19.tags: mofumofu, peek, portrait
+photo.20: ig://CaWTdYrvvrK/m
+photo.20.author: yuredpanda
+photo.20.commitdate: 2022/4/20
+photo.20.link: https://www.instagram.com/yuredpanda/
+photo.20.tags: baby, mofumofu, portrait, smile
+photo.21: ig://CabW2hxvwwa/m
+photo.21.author: yuredpanda
+photo.21.commitdate: 2022/4/20
+photo.21.link: https://www.instagram.com/yuredpanda/
+photo.21.tags: bridge, mofumofu, paws, peek, portrait
+photo.22: ig://CbPYJBCvHmI/m
+photo.22.author: yuredpanda
+photo.22.commitdate: 2022/4/20
+photo.22.link: https://www.instagram.com/yuredpanda/
+photo.22.tags: bite, mofumofu, portrait, tail
+photo.23: ig://CbZoP7yv9mj/m
+photo.23.author: yuredpanda
+photo.23.commitdate: 2022/4/20
+photo.23.link: https://www.instagram.com/yuredpanda/
+photo.23.tags: dish, mofumofu, portrait
+photo.24: ig://CcOzcaTPW8k/m
+photo.24.author: yuredpanda
+photo.24.commitdate: 2022/4/20
+photo.24.link: https://www.instagram.com/yuredpanda/
+photo.24.tags: laying down, mofumofu
+photo.25: ig://CfqLe5AvPnZ/m
+photo.25.author: yuredpanda
+photo.25.commitdate: 2022/11/29
+photo.25.link: https://www.instagram.com/yuredpanda/
+photo.25.tags: portrait, smile
+photo.26: ig://Cg1-75tBth-/m
+photo.26.author: yuredpanda
+photo.26.commitdate: 2022/11/29
+photo.26.link: https://www.instagram.com/yuredpanda/
+photo.26.tags: mofumofu, peek, portrait
+photo.27: ig://ChG4EyvP7dm/m
+photo.27.author: yuredpanda
+photo.27.commitdate: 2022/8/28
+photo.27.link: https://www.instagram.com/yuredpanda/
+photo.27.tags: mofumofu, paws, portrait, sample
+photo.28: ig://CimpbNthgdv/m
+photo.28.author: yuredpanda
+photo.28.commitdate: 2022/10/7
+photo.28.link: https://www.instagram.com/yuredpanda/
+photo.28.tags: portrait
+photo.29: ig://Ci-jBdwhvUI/m
+photo.29.author: yuredpanda
+photo.29.commitdate: 2023/7/19
+photo.29.link: https://www.instagram.com/yuredpanda/
+photo.29.tags: paws, portrait, standing, tail
+photo.30: ig://CjUkdizPjie/m
+photo.30.author: yuredpanda
+photo.30.commitdate: 2022/10/20
+photo.30.link: https://www.instagram.com/yuredpanda/
+photo.30.tags: door, portrait, smile, whiskers
+photo.31: ig://CleBbeuP68C/m
+photo.31.author: yuredpanda
+photo.31.commitdate: 2023/7/19
+photo.31.link: https://www.instagram.com/yuredpanda/
+photo.31.tags: paws, portrait, sample, whiskers
+photo.32: ig://Cm9YI0Xvu56/m
+photo.32.author: yuredpanda
+photo.32.commitdate: 2023/1/14
+photo.32.link: https://www.instagram.com/yuredpanda/
+photo.32.tags: bamboo, portrait, sample
+photo.33: ig://Cm_XgLnvMk_/m
+photo.33.author: yuredpanda
+photo.33.commitdate: 2023/7/19
+photo.33.link: https://www.instagram.com/yuredpanda/
+photo.33.tags: blink, tail
+photo.34: ig://CnB1zz2v0DI/m
+photo.34.author: yuredpanda
+photo.34.commitdate: 2023/1/14
+photo.34.link: https://www.instagram.com/yuredpanda/
+photo.34.tags: bamboo, portrait, smile
+photo.35: ig://CnJPRzdL6Cx/m
+photo.35.author: yuredpanda
+photo.35.commitdate: 2023/7/19
+photo.35.link: https://www.instagram.com/yuredpanda/
+photo.35.tags: close-up, portrait, upside-down
+photo.36: ig://Cna4v5cv0Ea/m
+photo.36.author: yuredpanda
+photo.36.commitdate: 2023/7/19
+photo.36.link: https://www.instagram.com/yuredpanda/
+photo.36.tags: bamboo, bite, paws, portrait, sample
+photo.37: ig://CnyPC7bvj3a/m
+photo.37.author: yuredpanda
+photo.37.commitdate: 2023/3/9
+photo.37.link: https://www.instagram.com/yuredpanda/
+photo.37.tags: paws, portrait, shake, whiskers
+photo.38: ig://Cn9Uj8gPQyX/m
+photo.38.author: yuredpanda
+photo.38.commitdate: 2023/2/25
+photo.38.link: https://www.instagram.com/yuredpanda/
+photo.38.tags: bamboo, portrait, tongue
+photo.39: ig://Coh_zcqPKPb/m
+photo.39.author: yuredpanda
+photo.39.commitdate: 2023/7/19
+photo.39.link: https://www.instagram.com/yuredpanda/
+photo.39.tags: portrait, sample
+photo.40: ig://Cojr3KmPXKI/m
+photo.40.author: yuredpanda
+photo.40.commitdate: 2023/4/3
+photo.40.link: https://www.instagram.com/yuredpanda/
+photo.40.tags: mofumofu, portrait, smile
+photo.41: ig://CpJYkjLvSWG/m
+photo.41.author: yuredpanda
+photo.41.commitdate: 2023/7/19
+photo.41.link: https://www.instagram.com/yuredpanda/
+photo.41.tags: bamboo, portrait, sample
+photo.42: ig://CpL54q1vXCk/m
+photo.42.author: yuredpanda
+photo.42.commitdate: 2023/7/19
+photo.42.link: https://www.instagram.com/yuredpanda/
+photo.42.tags: blink, portrait, tail
+photo.43: ig://CpP5HTivoQC/m
+photo.43.author: yuredpanda
+photo.43.commitdate: 2023/7/19
+photo.43.link: https://www.instagram.com/yuredpanda/
+photo.43.tags: bamboo, standing, tail
+photo.44: ig://CpVBoJIvJfQ/m
+photo.44.author: yuredpanda
+photo.44.commitdate: 2023/7/19
+photo.44.link: https://www.instagram.com/yuredpanda/
+photo.44.tags: bamboo, bite, peek, portrait, sample, tongue
+photo.45: ig://Cpb-vLXPnNo/m
+photo.45.author: yuredpanda
+photo.45.commitdate: 2023/7/19
+photo.45.link: https://www.instagram.com/yuredpanda/
+photo.45.tags: bamboo, close-up, paws, portrait
+photo.46: ig://Cpgzsjwv-BK/m
+photo.46.author: yuredpanda
+photo.46.commitdate: 2023/5/29
+photo.46.link: https://www.instagram.com/yuredpanda/
+photo.46.tags: paws, portrait, sample, smile
+photo.47: ig://CpjVKcyvFV6/m
+photo.47.author: yuredpanda
+photo.47.commitdate: 2023/7/19
+photo.47.link: https://www.instagram.com/yuredpanda/
+photo.47.tags: climb, mofumofu, paws, portrait, sample, tail, upside-down
+photo.48: ig://Cpt_7JMvW__/m
+photo.48.author: yuredpanda
+photo.48.commitdate: 2023/7/19
+photo.48.link: https://www.instagram.com/yuredpanda/
+photo.48.tags: laying down, paws, portrait
+photo.49: ig://Cp7CAg0v-6E/m
+photo.49.author: yuredpanda
+photo.49.commitdate: 2023/7/19
+photo.49.link: https://www.instagram.com/yuredpanda/
+photo.49.tags: close-up, portrait, sample, whiskers
+photo.50: ig://CqqESeGvASZ/m
+photo.50.author: yuredpanda
+photo.50.commitdate: 2023/7/19
+photo.50.link: https://www.instagram.com/yuredpanda/
+photo.50.tags: bamboo, bite, paws, portrait, sample
+photo.51: ig://CrPxrQMviuK/m
+photo.51.author: yuredpanda
+photo.51.commitdate: 2023/7/3
+photo.51.link: https://www.instagram.com/yuredpanda/
+photo.51.tags: bamboo, portrait, sample, techitechi
+photo.52: ig://CvKMaDhvb7L/m
+photo.52.author: yuredpanda
+photo.52.commitdate: 2023/7/31
+photo.52.link: https://www.instagram.com/yuredpanda/
+photo.52.tags: peek, tail
+species: 2
+zh.name: 可麗露
+zh.nicknames: Lulu
+zh.othernames: none
+zoo: 55

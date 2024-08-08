@@ -1,0 +1,37 @@
+[panda]
+_id: 1417
+birthday: 2023/6/9
+birthplace: 95
+children: none
+commitdate: 2023/7/16
+en.name: Pavitra
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: パヴィトラ
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+location.1: 95, 2023/6/9
+photo.1: ig://CxOWiQNP2MO/m
+photo.1.author: sandiegozoo
+photo.1.commitdate: 2023/9/16
+photo.1.link: https://www.instagram.com/sandiegozoo/
+photo.1.tags: baby, close-up, sample, whiskers
+photo.2: ig://CyMJpdnxNnU/m
+photo.2.author: sandiegozoo
+photo.2.commitdate: 2023/10/24
+photo.2.link: https://www.instagram.com/sandiegozoo/
+photo.2.tags: baby, close-up, paws, portrait, sample, tree
+photo.3: cwdc://Y2PdOZOADQA.jpg
+photo.3.author: sandiegozoo
+photo.3.commitdate: 2024/3/10
+photo.3.link: https://www.instagram.com/p/C3I62qXMsbO
+photo.3.tags: portrait, sample, tree, whiskers
+species: 2
+zoo: 95
+photo.4: cwdc://YqevIfDADQA.jpg
+photo.4.author: sandiegozoo
+photo.4.commitdate: 2024/4/13
+photo.4.link: ig://CxQjztRrxFP
+photo.4.tags: baby, mofumofu, sample, whiskers

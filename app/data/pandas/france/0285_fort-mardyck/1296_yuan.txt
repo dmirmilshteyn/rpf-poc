@@ -1,0 +1,17 @@
+[panda]
+_id: 1296
+birthday: unknown
+birthplace: unknown
+children: 1431, 1432
+commitdate: 2021/7/1
+en.name: Yuan
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ユアン
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+location.1: 285, unknown
+species: unknown
+zoo: 285

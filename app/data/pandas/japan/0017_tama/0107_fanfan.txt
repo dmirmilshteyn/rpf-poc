@@ -1,0 +1,268 @@
+[panda]
+_id: 107
+birthday: 1999/7/9
+birthplace: 15
+children: 136, 191, 608, 157, 192, 287, 67, 83, 105, 36, 74
+commitdate: 2018/6/23
+death: 2022/9/8
+en.name: Fan-Fan
+en.nicknames: none
+en.othernames: Fanfan
+gender: f
+ja.name: ファンファン
+ja.nicknames: none
+ja.othernames: 花花
+language.order: ja, en
+litter: 364
+location.1: 15, 1999/7/9
+location.2: 17, 2001/5/12
+photo.1: ig://BILDT9_jC7B/m
+photo.1.author: minatomirai215
+photo.1.commitdate: 2020/5/3
+photo.1.link: https://www.instagram.com/minatomirai215/
+photo.1.tags: mofumofu
+photo.2: ig://BRvS6IQD0nH/m
+photo.2.author: take_421
+photo.2.commitdate: 2021/8/22
+photo.2.link: https://www.instagram.com/take_421/
+photo.3: ig://BtF96jgFcIQ/m
+photo.3.author: mofu_pan
+photo.3.commitdate: 2019/1/27
+photo.3.link: https://www.instagram.com/mofu_pan/
+photo.3.tags: bamboo, old, portrait
+photo.4: ig://Bu3NLArllOI/m
+photo.4.author: nakayamanoboru6981
+photo.4.commitdate: 2019/3/12
+photo.4.link: https://www.instagram.com/nakayamanoboru6981/
+photo.4.tags: old
+photo.5: ig://B5d5R-QhI2m/m
+photo.5.author: sasapan34
+photo.5.commitdate: 2019/12/3
+photo.5.link: https://www.instagram.com/sasapan34/
+photo.5.tags: bamboo, old, smile
+photo.6: ig://B5y7QRqh-zf/m
+photo.6.author: ssc6105
+photo.6.commitdate: 2019/12/23
+photo.6.link: https://www.instagram.com/ssc6105/
+photo.6.tags: portrait
+photo.7: ig://B52u1cSBxdg/m
+photo.7.author: osopanda551
+photo.7.commitdate: 2019/12/27
+photo.7.link: https://www.instagram.com/osopanda551/
+photo.7.tags: bamboo, laying down, portrait, tail, white face
+photo.8: ig://B60ogWjBQ6B/m
+photo.8.author: mini_cochi
+photo.8.commitdate: 2020/1/30
+photo.8.link: https://www.instagram.com/mini_cochi/
+photo.8.tags: bamboo, portrait, smile, tongue
+photo.9: ig://B7I1JKmhOMz/m
+photo.9.author: osopanda551
+photo.9.commitdate: 2020/1/14
+photo.9.link: https://www.instagram.com/osopanda551/
+photo.9.tags: bamboo, mofumofu, old, portrait
+photo.10: cwdc://W-Y-RqTADQA.jpg
+photo.10.author: ck.chie
+photo.10.commitdate: 2020/1/14
+photo.10.link: https://www.instagram.com/p/B7NrYS5hCoN
+photo.10.tags: bamboo, laying down, mofumofu, old, portrait, sample, smile, tail
+photo.11: ig://B88sqQyBUBq/m
+photo.11.author: ifumoto88
+photo.11.commitdate: 2020/3/2
+photo.11.link: https://www.instagram.com/ifumoto88/
+photo.11.tags: old, portrait, smile, whiskers
+photo.12: ig://B881G4gBMj_/m
+photo.12.author: ifumoto88
+photo.12.commitdate: 2020/3/2
+photo.12.link: https://www.instagram.com/ifumoto88/
+photo.12.tags: old, portrait, smile
+photo.13: ig://B9B8to-h96K/m
+photo.13.author: panda.daisuki
+photo.13.commitdate: 2020/3/3
+photo.13.link: https://www.instagram.com/panda.daisuki/
+photo.13.tags: bamboo, mofumofu, old, portrait
+photo.14: ig://B9WSO_ahh8j/m
+photo.14.author: pink.b22
+photo.14.commitdate: 2020/3/19
+photo.14.link: https://www.instagram.com/pink.b22/
+photo.14.tags: bamboo, mofumofu, old, paws, portrait
+photo.15: ig://B9tMgCkBIw2/m
+photo.15.author: ifumoto88
+photo.15.commitdate: 2020/3/19
+photo.15.link: https://www.instagram.com/ifumoto88/
+photo.15.tags: old, smile, whiskers, white face
+photo.16: ig://B-PaH0chvMq/m
+photo.16.author: ifumoto88
+photo.16.commitdate: 2020/3/28
+photo.16.link: https://www.instagram.com/ifumoto88/
+photo.16.tags: old, mofumofu, smile, whiskers
+photo.17: ig://CBkVueHh_Mg/m
+photo.17.author: tamazoowalking
+photo.17.commitdate: 2023/1/11
+photo.17.link: https://www.instagram.com/tamazoowalking/
+photo.17.tags: bamboo, mofumofu, portrait, sample
+photo.18: cwdc://XMwl93wADQB.jpg
+photo.18.author: ck.chie
+photo.18.commitdate: 2020/7/19
+photo.18.link: https://www.instagram.com/p/CCZfOZoBYLl
+photo.18.tags: bamboo, mofumofu, old, sample, smile
+photo.19: ig://CCZiXhUh6b1/m
+photo.19.author: miis_98
+photo.19.commitdate: 2020/7/19
+photo.19.link: https://www.instagram.com/miis_98/
+photo.19.tags: bamboo, mofumofu, old, portrait, smile
+photo.20: ig://CCapUoth1FN/m
+photo.20.author: leonard_redmof
+photo.20.commitdate: 2020/7/14
+photo.20.link: https://www.instagram.com/leonard_redmof/
+photo.20.tags: mofumofu, old, portrait
+photo.21: ig://CCawOpTB0Es/m
+photo.21.author: daniele.tokyo
+photo.21.commitdate: 2020/7/14
+photo.21.link: https://www.instagram.com/daniele.tokyo/
+photo.21.tags: mofumofu, old, portrait, techitechi, whiskers
+photo.22: ig://CCbD7IqBS0O/m
+photo.22.author: mini_cochi
+photo.22.commitdate: 2020/7/14
+photo.22.link: https://www.instagram.com/mini_cochi/
+photo.22.tags: mofumofu, old, paws, portrait, sample, smile, tail, whiskers
+photo.23: ig://CDNszNKBY2e/m
+photo.23.author: kotata_513
+photo.23.commitdate: 2022/9/9
+photo.23.link: https://www.instagram.com/kotata_513/
+photo.23.tags: close-up, mofumofu, whiskers
+photo.24: ig://CDavLOzhwYt/m
+photo.24.author: tamazoowalking
+photo.24.commitdate: 2023/1/11
+photo.24.link: https://www.instagram.com/tamazoowalking/
+photo.24.tags: bamboo, portrait, sample, videolink
+photo.25: ig://CDtdBV4Bvxy/m
+photo.25.author: mini_cochi
+photo.25.commitdate: 2022/9/9
+photo.25.link: https://www.instagram.com/mini_cochi/
+photo.25.tags: bamboo, mofumofu, portrait, sample
+photo.26: cwdc://XPxcZxrADQC.jpg
+photo.26.author: ck.chie
+photo.26.commitdate: 2022/9/9
+photo.26.link: https://www.instagram.com/p/CD56cWlh137
+photo.26.tags: mofumofu, old, portrait, sample, smile
+photo.27: ig://CEDHKAahIvS/m
+photo.27.author: otenba_redpanda
+photo.27.commitdate: 2021/10/1
+photo.27.link: https://www.instagram.com/otenba_redpanda/
+photo.27.tags: mofumofu, portrait, whiskers
+photo.28: ig://CEMHMLFhqTd/m
+photo.28.author: ssc6105
+photo.28.commitdate: 2020/8/29
+photo.28.link: https://www.instagram.com/ssc6105/
+photo.28.tags: laying down, portrait, sleeping, tail
+photo.29: ig://CEit5lkBlRy/m
+photo.29.author: ssc6105
+photo.29.commitdate: 2022/9/9
+photo.29.link: https://www.instagram.com/ssc6105/
+photo.29.tags: bamboo, mofumofu, paws, sample, techitechi, whiskers
+photo.30: ig://CEjV_sghagj/m
+photo.30.author: ifumoto88
+photo.30.commitdate: 2020/9/4
+photo.30.link: https://www.instagram.com/ifumoto88/
+photo.30.tags: bamboo, mofumofu, old, portrait
+photo.31: ig://CFY4jFUhWrV/m
+photo.31.author: kotata_513
+photo.31.commitdate: 2022/9/9
+photo.31.link: https://www.instagram.com/kotata_513/
+photo.31.tags: bamboo, mofumofu, portrait, sample
+photo.32: ig://CG0zehqhiX3/m
+photo.32.author: sunnylettuce_2024
+photo.32.commitdate: 2020/11/1
+photo.32.link: https://www.instagram.com/sunnylettuce_2024/
+photo.32.tags: bamboo, mofumofu, old, smile
+photo.33: ig://CG2eDEzhX54/m
+photo.33.author: mini_cochi
+photo.33.commitdate: 2020/10/27
+photo.33.link: https://www.instagram.com/mini_cochi/
+photo.33.tags: laying down, mofumofu, old, tail
+photo.34: ig://CIO-MjoB4ma/m
+photo.34.author: firefoxpanda88
+photo.34.commitdate: 2022/9/9
+photo.34.link: https://www.instagram.com/firefoxpanda88/
+photo.34.tags: close-up, mofumofu, tongue, white face
+photo.35: ig://CIvhUVThWET/m
+photo.35.author: mini_cochi
+photo.35.commitdate: 2022/9/9
+photo.35.link: https://www.instagram.com/mini_cochi/
+photo.35.tags: bamboo, mofumofu, portrait, sample
+photo.36: ig://CJAoAYahvYx/m
+photo.36.author: otenba_redpanda
+photo.36.commitdate: 2021/10/1
+photo.36.link: https://www.instagram.com/otenba_redpanda/
+photo.36.tags: old, mofumofu, portrait, whiskers
+photo.37: ig://CQEEMTMBymq/m
+photo.37.author: mini_cochi
+photo.37.commitdate: 2021/6/18
+photo.37.link: https://www.instagram.com/mini_cochi/
+photo.37.tags: bamboo, mofumofu, old, portrait
+photo.38: ig://CREz_qXB1tr/m
+photo.38.author: eos1089
+photo.38.commitdate: 2021/7/11
+photo.38.link: https://www.instagram.com/eos1089/
+photo.38.tags: mofumofu, old, portrait, smile
+photo.39: ig://CRGtblhBoFG/m
+photo.39.author: kotata_513
+photo.39.commitdate: 2021/7/11
+photo.39.link: https://www.instagram.com/kotata_513/
+photo.39.tags: bamboo, portrait, smile, whiskers
+photo.40: ig://CRJbRsshlK0/m
+photo.40.author: mini_cochi
+photo.40.commitdate: 2022/9/9
+photo.40.link: https://www.instagram.com/mini_cochi/
+photo.40.tags: bamboo, mofumofu, portrait, sample
+photo.41: ig://CRKg_dvBa4l/m
+photo.41.author: miis_98
+photo.41.commitdate: 2021/7/11
+photo.41.link: https://www.instagram.com/miis_98/
+photo.41.tags: bamboo, dish, laying down, mofumofu, old, portrait
+photo.42: cwdc://XtuXCkYADQA.jpg
+photo.42.author: mini_cochi
+photo.42.commitdate: 2022/8/28
+photo.42.link: https://www.instagram.com/p/CS4Xwv8H99P
+photo.42.tags: close-up, mofumofu, portrait, profile, sample, whiskers, white face
+photo.43: ig://CUCSgKCBq7w/m
+photo.43.author: na.mo.pan
+photo.43.commitdate: 2022/9/9
+photo.43.link: https://www.instagram.com/na.mo.pan/
+photo.43.tags: mofumofu, paws, portrait, sample, whiskers
+photo.44: ig://CUD-O_pBBzv/m
+photo.44.author: alto0908
+photo.44.commitdate: 2021/10/9
+photo.44.link: https://www.instagram.com/alto0908/
+photo.44.tags: old, mofumofu, portrait, techitechi
+photo.45: ig://CUO1BHlrD4N/m
+photo.45.author: mini_cochi
+photo.45.commitdate: 2021/10/26
+photo.45.link: https://www.instagram.com/mini_cochi/
+photo.45.tags: dish, lunch time, mofumofu, portrait
+photo.46: ig://CWSxuFqBFP7/m
+photo.46.author: otenba_redpanda
+photo.46.commitdate: 2021/11/21
+photo.46.link: https://www.instagram.com/otenba_redpanda/
+photo.46.tags: mofumofu, paws, portrait, tail, whiskers
+photo.47: ig://CiSRStmri1s/m
+photo.47.author: ifumoto88
+photo.47.commitdate: 2022/9/9
+photo.47.link: https://www.instagram.com/ifumoto88/
+photo.47.tags: dish, mofumofu, portrait, sample
+photo.48: ig://CiSfRc4rR4E/m
+photo.48.author: mini_cochi
+photo.48.commitdate: 2022/11/10
+photo.48.link: https://www.instagram.com/mini_cochi/
+photo.48.tags: old, mofumofu, whiskers
+photo.49: ig://CiZwjTWvCZr/m
+photo.49.author: mariten1119
+photo.49.commitdate: 2022/10/13
+photo.49.link: https://www.instagram.com/mariten1119/
+photo.49.tags: mofumofu, whiskers
+species: 2
+studbook.id: 9991
+video.1: https://youtu.be/AnjnjrW-9iw
+video.1.author: ガメ
+video.1.link: https://www.youtube.com/channel/UCY6TH3OBuVW3S21xNcEw2tg
+zoo: 17

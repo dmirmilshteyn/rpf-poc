@@ -1,0 +1,16 @@
+[panda]
+_id: 1281
+birthday: 2018/6/11
+birthplace: 280
+children: unknown
+commitdate: 2021/4/11
+en.name: (no name)
+en.nicknames: none
+en.othernames: none
+gender: unknown
+ja.name: (無名)
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+species: 1
+zoo: 280

@@ -1,0 +1,71 @@
+[panda]
+_id: 1372
+birthday: 2022/7/7
+birthplace: 117
+children: none
+commitdate: 2022/7/14
+en.name: Raj
+en.nicknames: none
+en.oldnames: Sandy
+en.othernames: none
+gender: m
+ja.name: ラジ
+ja.nicknames: none
+ja.oldnames: サンデー
+ja.othernames: none
+language.order: en, ja
+litter: 1373
+location.1: 117, 2022/7/7
+location.2: 237, 2023/4/12
+photo.1: ig://Chxz6XVg9ky/m
+photo.1.author: trevorzoomillbrook
+photo.1.commitdate: 2022/9/11
+photo.1.link: https://www.instagram.com/trevorzoomillbrook/
+photo.1.tags: baby, mofumofu, portrait, sample
+photo.2: ig://CkhAQEFv81h/m
+photo.2.author: trevorzoomillbrook
+photo.2.commitdate: 2023/9/21
+photo.2.link: https://www.instagram.com/trevorzoomillbrook/
+photo.2.tags: baby, peek, portrait, sample, whiskers
+photo.3: ig://Ck9LFsIvZKL/m
+photo.3.author: trevorzoomillbrook
+photo.3.commitdate: 2022/12/19
+photo.3.link: https://www.instagram.com/trevorzoomillbrook/
+photo.3.tags: baby, door, portrait, sample, white face
+photo.4: ig://Clj9vu4ts9o/m
+photo.4.author: trevorzoomillbrook
+photo.4.commitdate: 2023/1/1
+photo.4.link: https://www.instagram.com/trevorzoomillbrook/
+photo.4.tags: baby, mofumofu, portrait, sample
+photo.5: ig://CodS7Zsv_6-/m
+photo.5.author: trevorzoomillbrook
+photo.5.commitdate: 2023/2/24
+photo.5.link: https://www.instagram.com/trevorzoomillbrook/
+photo.5.tags: close-up, portrait, sample, whiskers
+photo.6: ig://CuZuguHgle8/m
+photo.6.author: trevorzoomillbrook
+photo.6.commitdate: 2023/9/21
+photo.6.link: https://www.instagram.com/trevorzoomillbrook/
+photo.6.tags: baby, portrait, sample, whiskers
+photo.7: ig://Cv0iyH1Pntn/m
+photo.7.author: santabarbarazoo
+photo.7.commitdate: 2023/9/21
+photo.7.link: https://www.instagram.com/santabarbarazoo/
+photo.7.tags: peek, portrait, sample, tree
+photo.8: cwdc://Yp6XGHuADQA.jpg
+photo.8.author: greekgal.esm
+photo.8.commitdate: 2023/9/24
+photo.8.link: https://www.instagram.com/p/Cw-XyhnLZn8
+photo.8.tags: portrait, profile, sample, smile, whiskers
+photo.9: ig://Cxb8KS_RrCN/m
+photo.9.author: greekgal.esm
+photo.9.commitdate: 2023/9/24
+photo.9.link: https://www.instagram.com/greekgal.esm
+photo.9.tags: bamboo, portrait, sample, whiskers
+species: 1
+zoo: 237
+photo.10: cwdc://Yx0HH_QeDwA.jpg
+photo.10.author: nightingaleinflight
+photo.10.commitdate: 2024/5/4
+photo.10.link: https://www.instagram.com/nightingaleinflight
+photo.10.tags: laying down, paws, tree

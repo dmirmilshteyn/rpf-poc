@@ -1,0 +1,19 @@
+[panda]
+_id: 365
+birthday: 1999/7/8
+birthplace: 34
+children: 353, 858, 405, 172, 207
+commitdate: 2018/10/26
+death: 2009/3/6
+en.name: Rishi
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: 日食
+ja.nicknames: none
+ja.othernames: リーシー
+language.order: ja, en
+litter: 210
+species: 2
+studbook.id: 9988
+zoo: 34

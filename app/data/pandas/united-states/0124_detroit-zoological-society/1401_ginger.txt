@@ -1,0 +1,24 @@
+[panda]
+_id: 1401
+birthday: 2021/6/21
+birthplace: 121
+children: none
+commitdate: 2022/11/29
+en.name: Ginger
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: ジンジャー
+ja.nicknames: none
+ja.othernames: none
+language.order: en, ja
+litter: 1402
+location.1: 121, 2021/6/21
+location.2: 124, 2022/10/21
+photo.1: ig://Cj8aOCsJbDY/m
+photo.1.author: zooboise
+photo.1.commitdate: 2022/11/29
+photo.1.link: https://www.instagram.com/zooboise/
+photo.1.tags: portrait, sample, tail, whiskers
+species: 1
+zoo: 124

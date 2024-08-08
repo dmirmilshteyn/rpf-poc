@@ -1,0 +1,18 @@
+[panda]
+_id: 1425
+birthday: 2023/7/9
+birthplace: 16
+children: none
+commitdate: 2023/8/22
+death: 2023/7/25
+en.name: Baby
+en.nicknames: none
+en.othernames: none
+gender: f
+ja.name: 赤ちゃん
+ja.nicknames: none
+ja.othernames: none
+language.order: ja, en
+litter: 1424
+species: 2
+zoo: 16

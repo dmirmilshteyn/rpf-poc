@@ -1,0 +1,30 @@
+[zoo]
+_id: 245
+commitdate: 2020/5/3
+en.address: Av. Loro Parque, s/n, 38400 Puerto de la Cruz, Santa Cruz de Tenerife, Spain
+en.location: Santa Cruz de Tenerife, Canary Islands, Spain
+en.name: Loro Park
+es.address: Av. Loro Parque, s/n, 38400 Puerto de la Cruz, Santa Cruz de Tenerife, Spain
+es.location: Puerto de la Cruz, Santa Cruz de Tenerife, España
+es.name: Loro Parque
+flag: Spain
+language.order: es, en
+latitude: 28.4094027
+longitude: -16.5667087
+map: https://goo.gl/maps/yvwysne8Kms1Pubt6
+photo.1: cwdc://XHaG6YSADQC.jpg
+photo.1.author: loroparque
+photo.1.commitdate: 2020/5/3
+photo.1.link: https://www.instagram.com/p/B_uPsp5Dujh
+photo.1.tags: animal, profile
+photo.2: cwdc://XEWtVtIADQB.jpg
+photo.2.author: loroparque
+photo.2.commitdate: 2020/5/3
+photo.2.link: https://www.instagram.com/p/B-Mi6UUD40_
+photo.2.tags: animal
+photo.3: cwdc://W9COe7WADQA.jpg
+photo.3.author: loroparque
+photo.3.commitdate: 2020/5/4
+photo.3.link: https://www.instagram.com/p/B6iTe7bDVfW
+photo.3.tags: animal
+website: https://www.loroparque.com
