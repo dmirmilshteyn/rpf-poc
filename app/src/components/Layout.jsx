@@ -6,9 +6,9 @@ import TopMenu from '@site/components/TopMenu';
 
 export default function Layout({children}) {
   return (
-    <main>
+    <body>
       <TopMenu />
       {children}
-    </main>
+    </body>
   );
 }
